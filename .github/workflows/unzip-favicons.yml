@@ -1,0 +1,31 @@
+name: Unzip Favicons
+
+# This triggers ONLY when favicons.zip is pushed
+on:
+  push:
+    paths:
+      - 'favicons.zip'
+
+jobs:
+  unzip:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed so the action can commit the unzipped files back
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Unzip and cleanup
+        run: |
+          # Create the favicons folder if it doesn't exist
+          mkdir -p favicons
+          # Unzip the file into the favicons folder, overwriting existing files
+          unzip -o favicons.zip -d favicons
+          # Delete the zip file so it's not in your final repo
+          rm favicons.zip
+
+      - name: Commit and Push unzipped files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Auto-unzip favicons"
