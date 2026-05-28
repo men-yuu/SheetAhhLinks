@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T04:21:40.574Z",
+  "last_updated": "2026-05-28T04:58:37.554Z",
   "total_rows": 166,
   "categories": {
     "?? 7 seas": [
@@ -619,7 +619,7 @@
         "Title": "Site-Analyzer",
         "URL": "https://www.site-analyzer.com/",
         "Description": "Digital marketing platform that analyzes website content, technical architecture, and overall search performance.",
-        "Favicon Filename": "site-analyzer.com.png",
+        "Favicon Filename": "",
         "Tags": "SEO Checker",
         "Priority": ""
       },
