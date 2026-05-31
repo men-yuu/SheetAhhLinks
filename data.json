@@ -1,76 +1,44 @@
 {
-  "last_updated": "2026-05-28T04:58:37.554Z",
-  "total_rows": 166,
+  "last_updated": "2026-05-31T12:12:33.297Z",
+  "total_rows": 153,
   "categories": {
     "?? 7 seas": [
       {
-        "Title": "FMHY",
+        "Title": "freemediaheckyeah",
         "URL": "https://fmhy.net/",
-        "Description": "Curated directory of free resources, tools, and links for digital media and software discovery.",
+        "Description": "Web-based directory that aggregates links to free educational, software, and media resources for internet users.",
         "Favicon Filename": "fmhy.net.png",
         "Tags": "? Directory",
         "Priority": 1
       },
       {
-        "Title": "Media Savvy",
+        "Title": "Media Savvy Piracy Wiki",
         "URL": "https://mediasavvy.pages.dev/Wiki/",
-        "Description": "Wiki-based resource providing guides and information for developing critical media literacy skills and awareness.",
+        "Description": "Online wiki that provides guides and information regarding digital media consumption and internet safety practices.",
         "Favicon Filename": "mediasavvy.pages.dev.png",
-        "Tags": "",
-        "Priority": 1
-      },
-      {
-        "Title": "Anna?s Archive",
-        "URL": "https://annas-archive.org/",
-        "Description": "Search engine that indexes and aggregates metadata from various open-source digital library and archive projects.",
-        "Favicon Filename": "annas-archive.org.png",
         "Tags": "",
         "Priority": 1
       },
       {
         "Title": "Ripped",
         "URL": "https://ripped.guide/",
-        "Description": "Comprehensive guide for individuals seeking to access, store, and manage digital media collections locally.",
+        "Description": "Educational website that offers curated guides for finding and accessing digital media and software online.",
         "Favicon Filename": "ripped.guide.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "r/piracy Megathread",
+        "Title": "r/Privacy Megathread",
         "URL": "https://rentry.co/megathread",
-        "Description": "Community-maintained repository containing links and safety guides for accessing digital media and software content.",
+        "Description": "Community-maintained document that lists privacy-focused tools, services, and best practices for protecting user data.",
         "Favicon Filename": "rentry.co.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Library Genesis",
-        "URL": "https://libgen.is/",
-        "Description": "Searchable database that provides access to scientific articles, academic papers, and various digital books.",
-        "Favicon Filename": "",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Z-library Project",
-        "URL": "https://z-library.sk/",
-        "Description": "Digital library platform that allows users to search for and download academic texts and ebooks.",
-        "Favicon Filename": "z-library.sk.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Sci-Hub",
-        "URL": "https://sci-hub.se/",
-        "Description": "Research repository that facilitates open access to academic papers and scientific journal articles globally.",
-        "Favicon Filename": "sci-hub.se.png",
         "Tags": "",
         "Priority": ""
       },
       {
         "Title": "/r/Roms Megathread",
         "URL": "https://r-roms.github.io/",
-        "Description": "GitHub-hosted resource listing verified links and instructions for downloading video game ROMs and emulators.",
+        "Description": "Community repository that hosts links and information for locating video game ROMs and emulation resources.",
         "Favicon Filename": "r-roms.github.io.png",
         "Tags": "",
         "Priority": ""
@@ -78,15 +46,15 @@
       {
         "Title": "Rave Book Search",
         "URL": "https://ravebooksearch.com/",
-        "Description": "Online book search engine that helps users locate available editions across multiple digital library platforms.",
+        "Description": "Search tool that allows users to find and compare book prices across various online retailers.",
         "Favicon Filename": "ravebooksearch.com.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "WatchSoMuch",
+        "Title": "Download New Movies",
         "URL": "https://watchsomuch.to/Movies/",
-        "Description": "Streaming index that provides access to a large collection of movies and television show episodes.",
+        "Description": "Media portal that enables users to download movies and television shows via peer-to-peer file sharing.",
         "Favicon Filename": "watchsomuch.to.png",
         "Tags": "",
         "Priority": ""
@@ -96,15 +64,15 @@
       {
         "Title": "Exercism",
         "URL": "https://exercism.org/dashboard",
-        "Description": "Educational platform offering programming exercises and community mentoring for learning various coding languages.",
+        "Description": "Online platform that provides coding exercises and peer-reviewed feedback to help users learn programming languages.",
         "Favicon Filename": "exercism.org.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "CS50 Intro to Python",
+        "Title": "CS50's Intro to Programming with Python",
         "URL": "https://cs50.harvard.edu/python/2022/",
-        "Description": "Self-paced online course that introduces programming concepts using the Python language for beginners.",
+        "Description": "Educational course by Harvard University that teaches the fundamentals of Python programming to beginners.",
         "Favicon Filename": "cs50.harvard.edu.png",
         "Tags": "",
         "Priority": ""
@@ -112,7 +80,7 @@
       {
         "Title": "Udemy",
         "URL": "https://www.udemy.com/",
-        "Description": "Online learning marketplace that hosts video-based courses on a wide variety of professional and personal topics.",
+        "Description": "E-learning marketplace that provides a vast catalog of online courses across various professional and personal topics.",
         "Favicon Filename": "udemy.com.png",
         "Tags": "",
         "Priority": ""
@@ -120,7 +88,7 @@
       {
         "Title": "The Odin Project",
         "URL": "https://www.theodinproject.com/",
-        "Description": "Full-stack web development curriculum that provides structured learning paths and project-based assignments for students.",
+        "Description": "Open-source curriculum that provides a full-stack web development learning path for aspiring software developers.",
         "Favicon Filename": "theodinproject.com.png",
         "Tags": "",
         "Priority": ""
@@ -130,15 +98,15 @@
       {
         "Title": "Backloggd",
         "URL": "https://www.backloggd.com/",
-        "Description": "Web-based platform for tracking, rating, and managing personal video game collections and backlog progress.",
+        "Description": "Social cataloging website for gamers to track, rate, and review their video game collections.",
         "Favicon Filename": "backloggd.com.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "The StoryGraph",
+        "Title": "The Storygraph",
         "URL": "https://app.thestorygraph.com/",
-        "Description": "Reading log website that offers detailed statistics and recommendations based on personal book consumption habits.",
+        "Description": "Reading tracker that allows users to log books, generate personalized statistics, and discover new literature.",
         "Favicon Filename": "app.thestorygraph.com.png",
         "Tags": "",
         "Priority": ""
@@ -146,7 +114,7 @@
       {
         "Title": "Letterboxd",
         "URL": "https://letterboxd.com/",
-        "Description": "Social networking platform for tracking, reviewing, and organizing personal movie-watching history and preferences.",
+        "Description": "Social networking platform for film enthusiasts to log, review, and organize their personal movie watchlists.",
         "Favicon Filename": "letterboxd.com.png",
         "Tags": "",
         "Priority": ""
@@ -154,7 +122,7 @@
       {
         "Title": "MyAnimeList",
         "URL": "https://myanimelist.net/",
-        "Description": "Community-focused database that allows users to track, rate, and discuss anime and manga series.",
+        "Description": "Online database that enables users to track anime and manga consumption through lists and community forums.",
         "Favicon Filename": "myanimelist.net.png",
         "Tags": "",
         "Priority": ""
@@ -162,7 +130,7 @@
       {
         "Title": "MyDramaList",
         "URL": "https://mydramalist.com/",
-        "Description": "Online database for tracking, reviewing, and discovering Asian dramas and related television productions.",
+        "Description": "Community database that allows users to track, rate, and discuss Asian television dramas and films.",
         "Favicon Filename": "mydramalist.com.png",
         "Tags": "",
         "Priority": ""
@@ -172,7 +140,7 @@
       {
         "Title": "daily.dev",
         "URL": "https://app.daily.dev/",
-        "Description": "Browser extension and platform that aggregates personalized technology news and articles for software developers.",
+        "Description": "Content aggregator that curates news and articles specifically for software developers and technology professionals.",
         "Favicon Filename": "app.daily.dev.png",
         "Tags": "",
         "Priority": ""
@@ -180,7 +148,7 @@
       {
         "Title": "winstall",
         "URL": "https://winstall.app/",
-        "Description": "Web-based package manager that allows users to create and install batches of Windows applications.",
+        "Description": "Package manager for Windows that allows users to create and install customized collections of software.",
         "Favicon Filename": "winstall.app.png",
         "Tags": "",
         "Priority": ""
@@ -188,7 +156,7 @@
       {
         "Title": "Habitica",
         "URL": "https://habitica.com/",
-        "Description": "Task management application that treats life goals and daily habits like a role-playing game.",
+        "Description": "Task management application that utilizes role-playing game mechanics to gamify habit building and productivity.",
         "Favicon Filename": "habitica.com.png",
         "Tags": "",
         "Priority": ""
@@ -198,31 +166,23 @@
       {
         "Title": "Holodex",
         "URL": "https://holodex.net/",
-        "Description": "Video discovery platform that organizes and tracks live streams and videos from VTuber channels.",
+        "Description": "Video discovery platform that aggregates and organizes live streams and archives from VTuber content creators.",
         "Favicon Filename": "holodex.net.png",
-        "Tags": "",
-        "Priority": 0
-      },
-      {
-        "Title": "HiAnime",
-        "URL": "https://hianime.to/",
-        "Description": "Streaming website that provides a library of anime series and movies for online viewing.",
-        "Favicon Filename": "hianime.to.png",
         "Tags": "",
         "Priority": 0
       },
       {
         "Title": "HydraHD",
         "URL": "https://hydrahd.com/",
-        "Description": "Entertainment portal that hosts a variety of movies and television series for streaming purposes.",
+        "Description": "Web-based media player that offers high-definition streaming for a variety of movies and television series.",
         "Favicon Filename": "hydrahd.com.png",
         "Tags": "",
         "Priority": 0
       },
       {
-        "Title": "AnimeKa",
+        "Title": "AnimeKai",
         "URL": "https://animekai.to/home",
-        "Description": "Video hosting platform that provides access to various anime titles for online streaming.",
+        "Description": "Anime streaming site that hosts a wide variety of subbed and dubbed content in high-definition.",
         "Favicon Filename": "animekai.to.png",
         "Tags": "",
         "Priority": 0
@@ -230,7 +190,7 @@
       {
         "Title": "Reddit",
         "URL": "https://www.reddit.com/",
-        "Description": "Social news aggregation platform that enables users to discuss topics within categorized community forums.",
+        "Description": "Social news aggregation platform organized into interest-based communities where users vote on shared content.",
         "Favicon Filename": "reddit.com.png",
         "Tags": "",
         "Priority": ""
@@ -238,39 +198,31 @@
       {
         "Title": "Twitch",
         "URL": "https://www.twitch.tv/",
-        "Description": "Live streaming service that enables content creators to broadcast gaming, creative, and entertainment content.",
+        "Description": "Live streaming platform that enables users to broadcast and view video content across various interests.",
         "Favicon Filename": "twitch.tv.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "/vt//news/",
+        "Title": "/vt/ News",
         "URL": "https://vt.rita.moe/news.xml",
-        "Description": "RSS feed aggregator that compiles news and updates related to the VTuber community.",
+        "Description": "News feed aggregator that displays current updates and discussions related to the virtual YouTuber community.",
         "Favicon Filename": "vt.rita.moe.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "WatchAsian",
+        "Title": "Download New Movies",
         "URL": "https://watchsomuch.to/Movies/",
-        "Description": "Online media platform that hosts a collection of Asian movies for streaming and viewing.",
+        "Description": "Digital platform that provides links and information for downloading and watching a library of movies.",
         "Favicon Filename": "watchsomuch.to.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Japan ? DramaGo",
-        "URL": "https://dramago.in/country/japan",
-        "Description": "Streaming catalog that hosts Japanese drama series and movies for international audiences.",
-        "Favicon Filename": "dramago.in.png",
         "Tags": "",
         "Priority": ""
       },
       {
         "Title": "Asiaflix",
         "URL": "https://asiaflix.net/",
-        "Description": "Media library that offers a selection of Asian films and television series for streaming.",
+        "Description": "Streaming service that offers a collection of Asian dramas and movies with optional English subtitles.",
         "Favicon Filename": "asiaflix.net.png",
         "Tags": "",
         "Priority": ""
@@ -278,9 +230,9 @@
     ],
     "?? Design": [
       {
-        "Title": "DDR",
+        "Title": "Designer Daily Report",
         "URL": "https://app.designerdailyreport.com/",
-        "Description": "Curated news feed that aggregates design-related articles and resources for creative professionals.",
+        "Description": "Curation tool that provides designers with daily updates, industry news, and relevant professional resources.",
         "Favicon Filename": "app.designerdailyreport.com.png",
         "Tags": "",
         "Priority": ""
@@ -288,15 +240,15 @@
       {
         "Title": "Panda",
         "URL": "https://app.usepanda.com/#/",
-        "Description": "Browser-based dashboard that aggregates design inspiration and news feeds from multiple industry sources.",
+        "Description": "Design news aggregator that brings together creative content from various blogs and design industry sources.",
         "Favicon Filename": "app.usepanda.com.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "BG Remover",
+        "Title": "Craiyon Background Remover",
         "URL": "https://www.craiyon.com/background-remover",
-        "Description": "Online utility that utilizes artificial intelligence to automatically detect and remove image backgrounds.",
+        "Description": "Browser-based tool that utilizes artificial intelligence to automatically remove backgrounds from uploaded images.",
         "Favicon Filename": "craiyon.com.png",
         "Tags": "",
         "Priority": ""
@@ -306,7 +258,7 @@
       {
         "Title": "Compressor.io",
         "URL": "https://compressor.io/",
-        "Description": "Web-based tool that reduces the file size of images while maintaining visual quality standards.",
+        "Description": "Online image optimization tool that reduces file sizes for multiple formats without sacrificing visual quality.",
         "Favicon Filename": "compressor.io.png",
         "Tags": "Image Compressor",
         "Priority": ""
@@ -314,23 +266,23 @@
       {
         "Title": "TinyPNG",
         "URL": "https://tinypng.com/",
-        "Description": "Image optimization service that compresses PNG and JPEG files to reduce their total size.",
+        "Description": "Image compression tool that optimizes JPEG, PNG, and WebP files to reduce their overall size.",
         "Favicon Filename": "tinypng.com.png",
         "Tags": "Image Compressor",
         "Priority": ""
       },
       {
-        "Title": "Kraken",
+        "Title": "Kraken.io Image Optimizer",
         "URL": "https://kraken.io/",
-        "Description": "Bulk image optimization service that reduces file sizes while maintaining image quality and resolution.",
+        "Description": "Image optimization platform that provides compression and resizing for various image formats and document types.",
         "Favicon Filename": "kraken.io.png",
         "Tags": "Image Compressor",
         "Priority": ""
       },
       {
-        "Title": "Compress JPEG",
+        "Title": "Reduce JPEG File Size Online",
         "URL": "https://compressjpeg.com/",
-        "Description": "Web-based tool that compresses JPEG files to optimize storage space and web loading speeds.",
+        "Description": "Web utility designed to compress JPEG image files to reduce their storage requirements and loading times.",
         "Favicon Filename": "compressjpeg.com.png",
         "Tags": "Image Compressor",
         "Priority": ""
@@ -338,7 +290,7 @@
       {
         "Title": "Unminify2",
         "URL": "https://www.unminify2.com/",
-        "Description": "Web-based tool that formats and unminifies obfuscated or minified source code for easier human readability.",
+        "Description": "Web-based tool that unminifies JavaScript, CSS, and HTML code for improved readability and maintenance.",
         "Favicon Filename": "unminify2.com.png",
         "Tags": "Unminify HTML, CSS & JS",
         "Priority": ""
@@ -346,31 +298,23 @@
       {
         "Title": "Unminify",
         "URL": "https://unminify.com",
-        "Description": "Web-based utility that reverses minification on JavaScript, CSS, and HTML files to restore readable formatting.",
+        "Description": "Web-based tool that formats and unminifies JavaScript, CSS, HTML, XML, and JSON code files.",
         "Favicon Filename": "unminify.com.png",
         "Tags": "Unminify HTML, CSS & JS",
         "Priority": ""
       },
       {
-        "Title": "JavaScript Minifier",
+        "Title": "JavaScript minifier",
         "URL": "https://javascript-minifier.com/",
-        "Description": "Web-based utility that removes whitespace and characters from JavaScript files to reduce total file size.",
+        "Description": "Web-based tool that is currently unreachable and cannot provide JavaScript minification services.",
         "Favicon Filename": "javascript-minifier.com.png",
         "Tags": "Javascript Minifer",
         "Priority": ""
       },
       {
-        "Title": "JSCompress",
-        "URL": "https://jscompress.com/",
-        "Description": "Web-based tool that minifies JavaScript code by compressing text content to optimize loading speeds.",
-        "Favicon Filename": "jscompress.com.png",
-        "Tags": "Javascript Minifer",
-        "Priority": ""
-      },
-      {
-        "Title": "CSSMinifier",
+        "Title": "CSS Minifier",
         "URL": "https://cssminifier.com/",
-        "Description": "Web-based compressor that removes unnecessary characters and whitespace from CSS files to decrease file size.",
+        "Description": "Web-based tool that is currently unreachable and cannot provide CSS minification services.",
         "Favicon Filename": "cssminifier.com.png",
         "Tags": "CSS Minifier",
         "Priority": ""
@@ -378,159 +322,135 @@
       {
         "Title": "CSS Compressor",
         "URL": "https://csscompressor.com/",
-        "Description": "Web-based utility that compresses Cascading Style Sheets to optimize website performance and reduce bandwidth usage.",
+        "Description": "Web-based tool that compresses CSS files to reduce file size and optimize web performance.",
         "Favicon Filename": "csscompressor.com.png",
         "Tags": "CSS Minifier",
         "Priority": ""
       },
       {
-        "Title": "Beautifier.io",
+        "Title": "Online JavaScript beautifier",
         "URL": "https://beautifier.io/",
-        "Description": "Web-based code formatter that beautifies JavaScript, HTML, and CSS source code for improved developer readability.",
+        "Description": "Web-based tool that reformats and beautifies JavaScript code to improve structure and readability.",
         "Favicon Filename": "beautifier.io.png",
         "Tags": "JavaScript Beautifier",
         "Priority": ""
       },
       {
-        "Title": "CodeBeautify JS Viewer",
+        "Title": "Best Javascript Beautifier tool work as JavaScript Formatter, Viewer and Prettier",
         "URL": "https://codebeautify.org/jsviewer",
-        "Description": "Web-based viewer that parses and displays JavaScript code with proper indentation and syntax highlighting features.",
+        "Description": "Web-based tool that formats, views, and prettifies JavaScript code for easier developer editing.",
         "Favicon Filename": "codebeautify.org.png",
         "Tags": "JavaScript Beautifier",
         "Priority": ""
       },
       {
-        "Title": "Curious Concept JSON Formatter",
+        "Title": "JSON Formatter",
         "URL": "https://jsonformatter.curiousconcept.com/",
-        "Description": "Web-based tool that formats, validates, and helps users debug JSON data structures and code snippets.",
+        "Description": "Web-based tool that is currently unreachable and cannot provide JSON formatting services.",
         "Favicon Filename": "jsonformatter.curiousconcept.com.png",
         "Tags": "JSON",
         "Priority": ""
       },
       {
-        "Title": "JSONFormatter.org",
+        "Title": "JSON Formatter",
         "URL": "https://jsonformatter.org/",
-        "Description": "Web-based validator and formatter that organizes raw JSON strings into a structured, readable tree format.",
+        "Description": "Web-based tool that formats and validates JSON data for developers and data analysts.",
         "Favicon Filename": "jsonformatter.org.png",
         "Tags": "JSON",
         "Priority": ""
       },
       {
-        "Title": "JSONFormatter.io",
-        "URL": "https://www.jsonformatter.io/",
-        "Description": "Web-based suite that allows users to format, validate, and convert JSON data into other formats.",
-        "Favicon Filename": "",
-        "Tags": "JSON",
-        "Priority": ""
-      },
-      {
-        "Title": "TextCompare JSON Formatter",
-        "URL": "https://textcompare-jsonformatter.com/",
-        "Description": "Web-based utility that cleans and formats JSON strings to improve data legibility for software developers.",
-        "Favicon Filename": "",
-        "Tags": "JSON",
-        "Priority": ""
-      },
-      {
-        "Title": "JSONViewer (stack.hu)",
+        "Title": "Online JSON Viewer and Formatter",
         "URL": "https://jsonviewer.stack.hu/",
-        "Description": "Web-based viewer that renders JSON text into an interactive, expandable tree view for easy inspection.",
+        "Description": "Web-based tool that visualizes and reformats JSON data to make it easier to interpret.",
         "Favicon Filename": "jsonviewer.stack.hu.png",
         "Tags": "JSON",
         "Priority": ""
       },
       {
-        "Title": "Regexr",
+        "Title": "RegExr: Learn, Build, &amp; Test RegEx",
         "URL": "https://regexr.com/",
-        "Description": "Web-based application that allows users to build, test, and debug regular expressions with real-time feedback.",
+        "Description": "Web-based tool that provides an environment to build, test, and learn regular expressions.",
         "Favicon Filename": "regexr.com.png",
         "Tags": "Regex",
         "Priority": ""
       },
       {
-        "Title": "Regex101",
+        "Title": "regex101: build, test, and debug regex",
         "URL": "https://regex101.com/",
-        "Description": "Web-based tool that helps users develop and test regular expressions while providing detailed syntax explanations.",
+        "Description": "Web-based tool that enables users to build, test, and debug regular expressions in real-time.",
         "Favicon Filename": "regex101.com.png",
         "Tags": "Regex",
         "Priority": ""
       },
       {
-        "Title": "RegExTester.com",
+        "Title": "Regex Tester and Debugger Online - Javascript, PCRE, PHP",
         "URL": "https://www.regextester.com/",
-        "Description": "Web-based tester that evaluates regular expressions against provided text samples to verify pattern matching accuracy.",
+        "Description": "Web-based tool that tests and debugs regular expressions using JavaScript, PCRE, and PHP engines.",
         "Favicon Filename": "regextester.com.png",
         "Tags": "Regex",
         "Priority": ""
       },
       {
-        "Title": "Branah Unicode Converter",
+        "Title": "Unicode Converter - Unicode, UTF-16, UTF-8, UTF-32, Percent, Base64, and Decimal Converter",
         "URL": "https://www.branah.com/unicode-converter",
-        "Description": "Web-based converter that transforms plain text into Unicode characters and various encoding formats for developers.",
+        "Description": "Web-based tool that converts Unicode, UTF-16, UTF-8, UTF-32, Percent, Base64, and Decimal formats.",
         "Favicon Filename": "branah.com.png",
         "Tags": "Unicode Converter",
         "Priority": ""
       },
       {
-        "Title": "Meyerweb Dencoder",
+        "Title": "URL Decoder/Encoder",
         "URL": "https://meyerweb.com/eric/tools/dencoder/",
-        "Description": "Web-based utility that encodes and decodes text strings into various formats like URL and HTML.",
+        "Description": "Web-based tool that performs URL encoding and decoding for web developers and users.",
         "Favicon Filename": "meyerweb.com.png",
         "Tags": "Url Decoder/Encoder",
         "Priority": ""
       },
       {
-        "Title": "ConversionTools.io",
+        "Title": "All File Converters - 100+ Formats | Conversion Tools",
         "URL": "https://conversiontools.io/conversion",
-        "Description": "Web-based platform that converts files between various document, image, and data formats for online use.",
+        "Description": "Web-based tool that facilitates file conversions across over one hundred different document formats.",
         "Favicon Filename": "conversiontools.io.png",
         "Tags": "Converter Toolbox",
         "Priority": ""
       },
       {
-        "Title": "EMN178 Online Tools",
+        "Title": "Online Tools",
         "URL": "https://emn178.github.io/online-tools/",
-        "Description": "Web-based collection of developer tools for encoding, hashing, and converting various data and text formats.",
+        "Description": "Web-based utility library that provides various online tools for data encoding, hashing, and formatting.",
         "Favicon Filename": "emn178.github.io.png",
         "Tags": "Hash Text and File",
         "Priority": ""
       },
       {
-        "Title": "CyberChef (GCHQ)",
+        "Title": "CyberChef",
         "URL": "https://gchq.github.io/CyberChef/",
-        "Description": "Web-based tool that provides a collection of cryptographic and data manipulation operations for cyber security tasks.",
+        "Description": "Web-based tool for performing various data encoding, encryption, and cryptographic operations in a browser.",
         "Favicon Filename": "gchq.github.io.png",
         "Tags": "Web Developer Toolbox",
         "Priority": ""
       },
       {
-        "Title": "Browserling Tools",
+        "Title": "Title not found",
         "URL": "https://www.browserling.com/tools/",
-        "Description": "Online collection of browser-based utilities for tasks like data encoding, string manipulation, and image processing.",
+        "Description": "Online collection of browser-based utilities for web developers to perform common testing and debugging tasks.",
         "Favicon Filename": "browserling.com.png",
         "Tags": "Web Developer Toolbox",
         "Priority": ""
       },
       {
-        "Title": "Whois.net",
-        "URL": "https://whois.net/",
-        "Description": "Domain lookup service that displays registration data and ownership information for specific web addresses.",
-        "Favicon Filename": "",
-        "Tags": "Check Domain and Whois",
-        "Priority": ""
-      },
-      {
-        "Title": "Who.is",
+        "Title": "WHOIS",
         "URL": "https://who.is/",
-        "Description": "Search utility that provides domain registration details, DNS records, and IP address information for websites.",
+        "Description": "Domain information utility for retrieving registration records, IP address details, and DNS server configurations.",
         "Favicon Filename": "who.is.png",
         "Tags": "Check Domain and Whois",
         "Priority": ""
       },
       {
-        "Title": "IPLocation.net",
+        "Title": "What is My IP Address and IP Location | Geolocation",
         "URL": "https://www.iplocation.net/",
-        "Description": "IP address lookup service that identifies the geographical location and network provider of a web connection.",
+        "Description": "Geolocation utility for identifying an internet user's public IP address and approximate physical location.",
         "Favicon Filename": "iplocation.net.png",
         "Tags": "IP to Location",
         "Priority": ""
@@ -538,55 +458,47 @@
       {
         "Title": "Alexa",
         "URL": "https://www.alexa.com/",
-        "Description": "Web traffic analysis platform that provides metrics on website performance, audience demographics, and engagement statistics.",
+        "Description": "Web analytics service that provides traffic data and global rankings for websites worldwide.",
         "Favicon Filename": "alexa.com.png",
         "Tags": "Website Traffic Statistics",
         "Priority": ""
       },
       {
-        "Title": "SiteRankData",
-        "URL": "https://siterankdata.com/",
-        "Description": "SEO research tool that offers data on website traffic, domain authority, and search engine rankings.",
-        "Favicon Filename": "siterankdata.com.png",
-        "Tags": "Website Traffic Statistics",
-        "Priority": ""
-      },
-      {
-        "Title": "SimilarWeb",
+        "Title": "Similarweb: AI-Powered Digital Data Intelligence Solutions",
         "URL": "https://similarweb.com/",
-        "Description": "Market intelligence platform that provides website traffic data and performance benchmarks for businesses.",
+        "Description": "Market intelligence platform that provides digital traffic analytics and benchmarking data for global websites.",
         "Favicon Filename": "similarweb.com.png",
         "Tags": "Website Traffic Statistics",
         "Priority": ""
       },
       {
-        "Title": "WooRank",
+        "Title": "Website Optimization and Digital Agency Sales Tools | WooRank",
         "URL": "https://www.woorank.com/",
-        "Description": "SEO audit tool that analyzes website performance, keyword usage, and technical health for search optimization.",
+        "Description": "SEO auditing tool for analyzing website performance, accessibility, and search engine optimization ranking factors.",
         "Favicon Filename": "woorank.com.png",
         "Tags": "SEO Checker",
         "Priority": ""
       },
       {
-        "Title": "SEOptimer",
+        "Title": "Analyze Websites With Free SEO Audit &amp; Reporting Tool - SEOptimer",
         "URL": "https://www.seoptimer.com/",
-        "Description": "Website audit tool that generates reports on SEO health, technical issues, and social media performance.",
+        "Description": "Web-based SEO audit tool for evaluating page performance and generating actionable search optimization reports.",
         "Favicon Filename": "seoptimer.com.png",
         "Tags": "SEO Checker",
         "Priority": ""
       },
       {
-        "Title": "SiteChecker.pro",
+        "Title": "SEO Control Center for Agencies: Analytics, Alerts, AI Visibility",
         "URL": "https://sitechecker.pro/",
-        "Description": "Search engine optimization platform that monitors website technical health and provides actionable SEO tracking reports.",
+        "Description": "SEO management platform for monitoring keyword rankings, technical website health, and search engine visibility.",
         "Favicon Filename": "sitechecker.pro.png",
         "Tags": "SEO Checker",
         "Priority": ""
       },
       {
-        "Title": "Neil Patel SEO Analyzer",
+        "Title": "SEO Analyzer",
         "URL": "https://neilpatel.com/seo-analyzer/",
-        "Description": "SEO analysis tool that audits website performance and provides recommendations for improving search engine visibility.",
+        "Description": "Search engine optimization utility for scanning websites to identify technical issues and improve ranking potential.",
         "Favicon Filename": "neilpatel.com.png",
         "Tags": "SEO Checker",
         "Priority": ""
@@ -594,7 +506,7 @@
       {
         "Title": "SEO Tester Online",
         "URL": "https://www.seotesteronline.com/",
-        "Description": "Suite of SEO tools that analyzes website architecture, content, and performance metrics for optimization.",
+        "Description": "SEO analysis suite for reviewing website content, technical structure, and performance metrics for optimization.",
         "Favicon Filename": "seotesteronline.com.png",
         "Tags": "SEO Checker",
         "Priority": ""
@@ -602,47 +514,47 @@
       {
         "Title": "WebPageTest",
         "URL": "https://webpagetest.org/",
-        "Description": "Web performance tool that tests page load speeds from various global locations and browsers.",
+        "Description": "Web-based diagnostic tool for measuring and analyzing the performance of websites from different global locations.",
         "Favicon Filename": "webpagetest.org.png",
         "Tags": "SEO Checker",
         "Priority": ""
       },
       {
-        "Title": "SEOSiteCheckup",
+        "Title": "SEO Site Checkup",
         "URL": "https://seositecheckup.com/",
-        "Description": "Automated SEO auditing tool that checks websites for technical errors and search engine optimization issues.",
+        "Description": "SEO assessment tool for identifying technical errors and optimization opportunities on specific web pages.",
         "Favicon Filename": "seositecheckup.com.png",
         "Tags": "SEO Checker",
         "Priority": ""
       },
       {
-        "Title": "Site-Analyzer",
+        "Title": "Site Analyzer",
         "URL": "https://www.site-analyzer.com/",
-        "Description": "Digital marketing platform that analyzes website content, technical architecture, and overall search performance.",
-        "Favicon Filename": "",
+        "Description": "AI-powered analysis tool for evaluating website health and providing recommendations to improve search engine rankings.",
+        "Favicon Filename": "site-analyzer.com.png",
         "Tags": "SEO Checker",
         "Priority": ""
       },
       {
-        "Title": "The Hoth Rank Checker",
+        "Title": "Instant Keyword Position Tracker",
         "URL": "https://www.thehoth.com/search-engine-rankings/",
-        "Description": "Rank tracking tool that monitors a website's position in search engine results for specific keywords.",
+        "Description": "Search ranking utility for tracking the position of specific keywords on Google search result pages.",
         "Favicon Filename": "thehoth.com.png",
         "Tags": "Rank Checker",
         "Priority": ""
       },
       {
-        "Title": "SearchEngineGenie Google Rank Checker",
+        "Title": "Google Position Checker",
         "URL": "https://www.searchenginegenie.com/google-rank-checker.html",
-        "Description": "Web-based utility that tracks and reports the ranking position of websites in Google search results.",
+        "Description": "Keyword position tracker for identifying where a specific domain ranks on Google search result pages.",
         "Favicon Filename": "searchenginegenie.com.png",
         "Tags": "Rank Checker",
         "Priority": ""
       },
       {
-        "Title": "SE Ranking Google Ranking Checker",
+        "Title": "Free Google Rank Checker: Precise Daily Keyword Tracking",
         "URL": "https://seranking.com/google-ranking-checker.html",
-        "Description": "Tracking service that allows users to monitor their website ranking performance in Google search engine results.",
+        "Description": "Tracking tool for monitoring daily changes in keyword search engine positions across various regional results.",
         "Favicon Filename": "seranking.com.png",
         "Tags": "Rank Checker",
         "Priority": ""
@@ -650,7 +562,7 @@
       {
         "Title": "Crazy Egg",
         "URL": "https://www.crazyegg.com/",
-        "Description": "Visitor behavior analysis platform that provides heatmaps, scroll maps, and session recordings for websites.",
+        "Description": "Website optimization platform that tracks user behavior through heatmaps, session recordings, and A/B testing.",
         "Favicon Filename": "crazyegg.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -658,7 +570,7 @@
       {
         "Title": "Lucky Orange",
         "URL": "https://www.luckyorange.com/",
-        "Description": "Conversion optimization platform that provides visitor session recordings, heatmaps, and live chat for website owners.",
+        "Description": "Web-based tool that provides heatmaps, session recordings, and surveys to analyze visitor activity on websites.",
         "Favicon Filename": "luckyorange.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -666,7 +578,7 @@
       {
         "Title": "Matomo",
         "URL": "https://matomo.org/",
-        "Description": "Web analytics platform that tracks website visitors and provides detailed reporting while prioritizing data privacy.",
+        "Description": "Analytics platform that tracks website traffic and user behavior while prioritizing user data privacy.",
         "Favicon Filename": "matomo.org.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -674,7 +586,7 @@
       {
         "Title": "Hotjar",
         "URL": "https://www.hotjar.com/",
-        "Description": "Behavioral analytics tool that uses heatmaps and session recordings to visualize how users navigate websites.",
+        "Description": "Behavior analytics platform that uses heatmaps and session recordings to visualize how users navigate websites.",
         "Favicon Filename": "hotjar.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -690,7 +602,7 @@
       {
         "Title": "Inspectlet",
         "URL": "https://www.inspectlet.com/",
-        "Description": "User behavior tracking software that records individual visitor sessions and generates heatmaps for websites.",
+        "Description": "Behavior analytics tool that offers session replays, heatmaps, and error logging to optimize website performance.",
         "Favicon Filename": "inspectlet.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -698,7 +610,7 @@
       {
         "Title": "Mouseflow",
         "URL": "https://mouseflow.com/",
-        "Description": "Analytics tool that records user sessions and provides heatmaps to identify website usability issues.",
+        "Description": "Analytics platform that tracks user behavior through session replays and heatmaps to improve user experience.",
         "Favicon Filename": "mouseflow.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -706,15 +618,15 @@
       {
         "Title": "Smartlook",
         "URL": "https://www.smartlook.com/",
-        "Description": "Qualitative analytics platform that records user sessions and tracks events on both websites and mobile apps.",
+        "Description": "Product analytics software that uses session recordings and event tracking to provide visual user insights.",
         "Favicon Filename": "smartlook.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
       },
       {
-        "Title": "FullStory",
+        "Title": "Fullstory",
         "URL": "https://www.fullstory.com/",
-        "Description": "Digital experience intelligence platform that captures user interactions to help debug and improve website performance.",
+        "Description": "Digital experience platform that uses behavioral analytics to track user interactions and identify technical issues.",
         "Favicon Filename": "fullstory.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -722,7 +634,7 @@
       {
         "Title": "LogRocket",
         "URL": "https://logrocket.com/",
-        "Description": "Frontend monitoring tool that records user sessions and logs errors to help developers resolve technical issues.",
+        "Description": "Session replay and error tracking tool that helps developers monitor and debug user-facing web applications.",
         "Favicon Filename": "logrocket.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -730,15 +642,15 @@
       {
         "Title": "Mixpanel",
         "URL": "https://mixpanel.com/",
-        "Description": "Product analytics platform that tracks user actions and engagement events to analyze behavior in applications.",
+        "Description": "Analytics platform that tracks user interactions to help product teams measure engagement and conversion metrics.",
         "Favicon Filename": "mixpanel.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
       },
       {
-        "Title": "Heatmap.com",
+        "Title": "Heatmap",
         "URL": "https://heatmap.com/",
-        "Description": "Website visualization tool that provides real-time heatmaps showing where visitors click and scroll on pages.",
+        "Description": "Behavioral analytics tool that provides real-time heatmaps to analyze how visitors interact with eCommerce websites.",
         "Favicon Filename": "heatmap.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -746,23 +658,23 @@
       {
         "Title": "Ptengine",
         "URL": "https://www.ptengine.com/",
-        "Description": "Marketing analytics and heatmapping software that tracks user behavior to improve website conversion and performance.",
+        "Description": "Analytics and optimization tool that combines heatmaps with A/B testing for landing page performance improvements.",
         "Favicon Filename": "ptengine.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
       },
       {
-        "Title": "Umami (docs)",
+        "Title": "Umami",
         "URL": "https://umami.is/docs/about",
-        "Description": "Privacy-focused analytics platform that tracks visitor traffic and page views through a self-hosted or cloud-based setup.",
+        "Description": "Web analytics software that provides privacy-focused, lightweight tracking for website traffic and visitor behavior.",
         "Favicon Filename": "umami.is.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
       },
       {
-        "Title": "Segment",
+        "Title": "Twilio Segment Customer Data Platform | Twilio",
         "URL": "https://segment.com/",
-        "Description": "Customer data platform that collects, cleans, and routes user data to various marketing and analytics tools.",
+        "Description": "Customer data platform that collects, cleans, and controls user data from various sources for analytics.",
         "Favicon Filename": "segment.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -770,7 +682,7 @@
       {
         "Title": "Clicky",
         "URL": "https://clicky.com/",
-        "Description": "Real-time web analytics service that provides traffic monitoring, goal tracking, and detailed visitor activity reporting.",
+        "Description": "Web analytics service that provides real-time visitor tracking and reporting as an alternative to Google Analytics.",
         "Favicon Filename": "clicky.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -778,7 +690,7 @@
       {
         "Title": "Open Web Analytics",
         "URL": "https://www.openwebanalytics.com",
-        "Description": "Open-source web analytics framework that allows website owners to track visitor behavior and generate performance reports.",
+        "Description": "Open-source web analytics platform that tracks website visitors and provides detailed usage reports for developers.",
         "Favicon Filename": "openwebanalytics.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -786,7 +698,7 @@
       {
         "Title": "Intercom",
         "URL": "https://www.intercom.com/",
-        "Description": "Customer communications platform that provides live chat, ticketing, and messaging tools for businesses and users.",
+        "Description": "Customer service platform that uses AI agents and messaging tools to manage communication with users.",
         "Favicon Filename": "intercom.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
@@ -794,23 +706,23 @@
       {
         "Title": "Optimizely",
         "URL": "https://www.optimizely.com/",
-        "Description": "Digital experience platform that enables businesses to perform A/B testing and personalize content for users.",
+        "Description": "Digital experience platform that enables businesses to run A/B tests and manage personalized website content.",
         "Favicon Filename": "optimizely.com.png",
         "Tags": "Analytics & Tracking",
         "Priority": ""
       },
       {
-        "Title": "GTmetrix",
+        "Title": "GT Metrix",
         "URL": "https://gtmetrix.com/",
-        "Description": "Performance monitoring tool that analyzes website page speed and generates recommendations for technical optimization.",
+        "Description": "Performance monitoring tool that measures website loading speeds and provides optimization recommendations for better performance.",
         "Favicon Filename": "gtmetrix.com.png",
         "Tags": "Speed Checker & Performance Optimization",
         "Priority": ""
       },
       {
-        "Title": "web.dev Measure",
+        "Title": "PageSpeed Insights",
         "URL": "https://web.dev/measure/",
-        "Description": "Web performance tool that audits pages and provides metrics based on Google's Core Web Vitals standards.",
+        "Description": "Web performance tool that analyzes page loading speeds and provides data on core web vitals.",
         "Favicon Filename": "web.dev.png",
         "Tags": "Speed Checker & Performance Optimization",
         "Priority": ""
@@ -818,15 +730,15 @@
       {
         "Title": "Pingdom",
         "URL": "https://www.pingdom.com/",
-        "Description": "Website monitoring service that tracks uptime, performance, and availability for web applications and servers.",
+        "Description": "Web-based service for monitoring website uptime, availability, and performance from various global server locations.",
         "Favicon Filename": "pingdom.com.png",
         "Tags": "Speed Checker & Performance Optimization",
         "Priority": ""
       },
       {
-        "Title": "Lighthouse (Google)",
+        "Title": "Google Lighthouse",
         "URL": "https://developers.google.com/web/tools/lighthouse",
-        "Description": "Automated open-source tool that audits performance, accessibility, SEO, and quality of web pages.",
+        "Description": "Automated auditing tool for measuring the quality, performance, and accessibility of web pages.",
         "Favicon Filename": "developers.google.com.png",
         "Tags": "Speed Checker & Performance Optimization",
         "Priority": ""
@@ -834,23 +746,23 @@
       {
         "Title": "PageSpeed Insights",
         "URL": "https://developers.google.com/speed/pagespeed/insights/",
-        "Description": "Web-based analysis tool that evaluates page loading performance and provides suggestions for optimization.",
+        "Description": "Web analysis tool for evaluating page load speeds and providing recommendations to improve site performance.",
         "Favicon Filename": "developers.google.com.png",
         "Tags": "Speed Checker & Performance Optimization",
         "Priority": ""
       },
       {
-        "Title": "Uptime Robot",
+        "Title": "UptimeRobot",
         "URL": "https://uptimerobot.com/",
-        "Description": "Monitoring service that checks website uptime at regular intervals and sends alerts upon outages.",
+        "Description": "Monitoring service that tracks website uptime and notifies users when their sites become unresponsive.",
         "Favicon Filename": "uptimerobot.com.png",
         "Tags": "Website Monitoring / Uptime Checker",
         "Priority": ""
       },
       {
-        "Title": "HetrixTools",
+        "Title": "Hetrix Tools",
         "URL": "https://hetrixtools.com/",
-        "Description": "Infrastructure monitoring platform that tracks uptime and performance for websites, servers, and blacklists.",
+        "Description": "Network monitoring platform for tracking server uptime, blacklists, and general infrastructure performance for administrators.",
         "Favicon Filename": "hetrixtools.com.png",
         "Tags": "Website Monitoring / Uptime Checker",
         "Priority": ""
@@ -858,15 +770,15 @@
       {
         "Title": "Freshworks",
         "URL": "https://www.freshworks.com/",
-        "Description": "Customer engagement software that provides a suite of tools for business support and sales.",
+        "Description": "Customer engagement platform for managing support tickets, live chat, and communication with business clients.",
         "Favicon Filename": "freshworks.com.png",
         "Tags": "Website Monitoring / Uptime Checker",
         "Priority": ""
       },
       {
-        "Title": "Uptime Doctor",
+        "Title": "UptimeDoctor",
         "URL": "https://www.uptimedoctor.com/",
-        "Description": "Monitoring tool that tracks website uptime and server availability with global polling locations.",
+        "Description": "Monitoring service that tracks website uptime and alerts users to potential service interruptions.",
         "Favicon Filename": "uptimedoctor.com.png",
         "Tags": "Website Monitoring / Uptime Checker",
         "Priority": ""
@@ -874,31 +786,23 @@
       {
         "Title": "DiffChecker",
         "URL": "https://www.diffchecker.com/",
-        "Description": "Comparison tool that identifies differences between text, images, or PDF files side-by-side.",
+        "Description": "Comparison tool for identifying differences between two text files, images, or PDF documents.",
         "Favicon Filename": "diffchecker.com.png",
         "Tags": "Difference Checker",
         "Priority": ""
       },
       {
-        "Title": "DiffNow Compare Clips",
+        "Title": "DiffNow",
         "URL": "https://www.diffnow.com/compare-clips",
-        "Description": "Web utility that compares two snippets of text to highlight deletions, additions, and modifications.",
+        "Description": "Online utility for comparing text clips or uploaded files to highlight specific content differences.",
         "Favicon Filename": "diffnow.com.png",
         "Tags": "Difference Checker",
         "Priority": ""
       },
       {
-        "Title": "TextCompare JSON Formatter",
-        "URL": "https://textcompare-jsonformatter.com/",
-        "Description": "Formatting tool that validates and cleans up JSON code to improve readability and structure.",
-        "Favicon Filename": "",
-        "Tags": "Difference Checker",
-        "Priority": ""
-      },
-      {
-        "Title": "Panabee",
+        "Title": "Stock News",
         "URL": "https://www.panabee.com/",
-        "Description": "Domain name generator that suggests available web addresses based on keywords and company themes.",
+        "Description": "Creative brainstorming tool for generating business names, domain ideas, and app titles based on keywords.",
         "Favicon Filename": "panabee.com.png",
         "Tags": "Domain Name Generator",
         "Priority": ""
@@ -906,15 +810,15 @@
       {
         "Title": "DomainWheel",
         "URL": "https://domainwheel.com/",
-        "Description": "Search tool that generates available domain name ideas by combining keywords and related concepts.",
+        "Description": "Domain name generator that uses artificial intelligence to suggest available web addresses based on topics.",
         "Favicon Filename": "domainwheel.com.png",
         "Tags": "Domain Name Generator",
         "Priority": ""
       },
       {
-        "Title": "NameMesh",
+        "Title": "Name Mesh",
         "URL": "https://www.namemesh.com/",
-        "Description": "Name generator that categorizes domain name suggestions by length, topic, and common prefixes or suffixes.",
+        "Description": "Domain naming tool for finding available web addresses through keyword combinations and category suggestions.",
         "Favicon Filename": "namemesh.com.png",
         "Tags": "Domain Name Generator",
         "Priority": ""
@@ -922,103 +826,95 @@
       {
         "Title": "Namelix",
         "URL": "https://namelix.com/",
-        "Description": "Business name generator that uses artificial intelligence to create short, brandable domain name suggestions.",
+        "Description": "Business naming tool that uses artificial intelligence to create brandable names based on relevant keywords.",
         "Favicon Filename": "namelix.com.png",
         "Tags": "Domain Name Generator",
         "Priority": ""
       },
       {
-        "Title": "DNSChecker.org",
+        "Title": "DNS Checker",
         "URL": "https://dnschecker.org/",
-        "Description": "Diagnostic tool that checks DNS record propagation across various global servers and IP addresses.",
+        "Description": "DNS lookup tool for checking domain records against global name servers to verify configuration status.",
         "Favicon Filename": "dnschecker.org.png",
         "Tags": "DNS Checker",
         "Priority": ""
       },
       {
-        "Title": "WhatsMyDNS",
+        "Title": "What's my DNS",
         "URL": "https://www.whatsmydns.net/",
-        "Description": "Lookup service that verifies DNS record updates across different geographic regions worldwide.",
+        "Description": "DNS propagation checker that displays how domain records appear across name servers globally.",
         "Favicon Filename": "whatsmydns.net.png",
         "Tags": "DNS Checker",
         "Priority": ""
       },
       {
-        "Title": "IntoDNS",
+        "Title": "intoDNS",
         "URL": "https://intodns.com/",
-        "Description": "Domain analysis tool that checks DNS and mail server configurations for potential health issues.",
+        "Description": "Diagnostic tool for checking the configuration and health status of domain name and mail servers.",
         "Favicon Filename": "intodns.com.png",
         "Tags": "DNS Checker",
         "Priority": ""
       },
       {
-        "Title": "DNS Record Viewer (online-domain-tools)",
-        "URL": "https://dns-record-viewer.online-domain-tools.com/",
-        "Description": "DNS utility that queries and displays various record types for specified domain names.",
-        "Favicon Filename": "dns-record-viewer.online-domain-tools.com.png",
-        "Tags": "DNS Checker",
-        "Priority": ""
-      },
-      {
-        "Title": "MXToolbox SuperTool",
+        "Title": "Network Tools: DNS,IP,Email",
         "URL": "https://mxtoolbox.com/SuperTool.aspx",
-        "Description": "Diagnostic dashboard that performs extensive lookups for DNS, mail server, and network issues.",
+        "Description": "Comprehensive network diagnostic suite for performing DNS lookups, blacklist checks, and email server testing.",
         "Favicon Filename": "mxtoolbox.com.png",
         "Tags": "DNS Checker",
         "Priority": ""
       },
       {
-        "Title": "Uptrends DNS Tool",
+        "Title": "DNS Check Tool - Uptrends",
         "URL": "https://www.uptrends.com/tools/dns",
-        "Description": "Web utility that performs global DNS queries to troubleshoot records and server connectivity issues.",
+        "Description": "Diagnostic tool for querying DNS records and verifying the status of domain configurations globally.",
         "Favicon Filename": "uptrends.com.png",
         "Tags": "DNS Checker",
         "Priority": ""
       },
       {
-        "Title": "YouGetSignal Open Ports",
+        "Title": "Open Port Check Tool",
         "URL": "https://www.yougetsignal.com/tools/open-ports/",
-        "Description": "Network diagnostic tool that checks if specific ports are open on a given IP address.",
+        "Description": "Web-based utility for checking open ports on a network to verify router port forwarding configurations.",
         "Favicon Filename": "yougetsignal.com.png",
         "Tags": "Port Checker",
         "Priority": ""
       },
       {
-        "Title": "SSL Labs",
+        "Title": "SSL Server Test",
         "URL": "https://www.ssllabs.com/ssltest/",
-        "Description": "Web-based analysis tool that performs a deep inspection of SSL/TLS web server configurations.",
+        "Description": "Diagnostic tool for performing a deep analysis of the configuration of any public SSL web server.",
         "Favicon Filename": "ssllabs.com.png",
         "Tags": "SSL/TLS Checker",
         "Priority": ""
       },
       {
-        "Title": "Jitbit SSLCheck",
+        "Title": "SSL-check",
         "URL": "https://www.jitbit.com/sslcheck/",
-        "Description": "Diagnostic tool that identifies SSL certificates installed on a domain and checks their expiry dates.",
+        "Description": "Online crawler for scanning HTTPS websites to identify insecure content and mixed-content issues.",
         "Favicon Filename": "jitbit.com.png",
         "Tags": "SSL/TLS Checker",
         "Priority": ""
       },
       {
-        "Title": "SSL Shopper",
+        "Title": "SSL Checker",
         "URL": "https://www.sslshopper.com/ssl-checker.html",
-        "Description": "SSL verification tool that checks certificates for installation errors and provides expiration information for domains.",
+        "Description": "Verification tool for diagnosing SSL certificate installation issues on web servers by checking certificate validity.",
         "Favicon Filename": "sslshopper.com.png",
         "Tags": "SSL/TLS Checker",
         "Priority": ""
       },
       {
-        "Title": "SecurityHeaders",
+        "Title": "Security Headers",
         "URL": "https://securityheaders.com/",
-        "Description": "Security auditing tool that analyzes HTTP response headers to identify potential vulnerabilities in web configurations.",
+        "Description": "Security auditing tool for analyzing HTTP response headers to ensure a website follows security best practices.",
         "Favicon Filename": "securityheaders.com.png",
         "Tags": "Security Checker",
         "Priority": ""
       },
       {
-        "Title": "Mozilla Observatory",
+        "Title": "HTTP Header Security Test",
         "URL": "https://observatory.mozilla.org/",
-        "Description": "Open-source analysis suite that assesses website security by testing HTTP headers and SSL/TLS configurations.",
+        "Description": "Automated security scanner for evaluating the configuration and headers of web applications for common vulnerabilities.",
         "Favicon Filename": "observatory.mozilla.org.png",
         "Tags": "Security Checker",
         "Priority": ""
@@ -1026,23 +922,23 @@
       {
         "Title": "Sucuri SiteCheck",
         "URL": "https://sitecheck.sucuri.net/",
-        "Description": "Security scanning tool that monitors websites for malware, blacklisting status, and outdated software components.",
+        "Description": "Remote scanner for checking websites for known malware, blacklisting status, and overall security configurations.",
         "Favicon Filename": "sitecheck.sucuri.net.png",
         "Tags": "Security Checker",
         "Priority": ""
       },
       {
-        "Title": "UpGuard WebScan",
+        "Title": "UpGuard",
         "URL": "https://webscan.upguard.com/",
-        "Description": "Risk assessment tool that scans public-facing domains to identify security misconfigurations and vulnerabilities.",
+        "Description": "Security assessment tool for evaluating a website's overall risk profile and identifying potential vulnerabilities.",
         "Favicon Filename": "webscan.upguard.com.png",
         "Tags": "Security Checker",
         "Priority": ""
       },
       {
-        "Title": "ImmuniWeb Websec",
+        "Title": "Website Security Test",
         "URL": "https://www.immuniweb.com/websec/",
-        "Description": "Security testing platform that evaluates website compliance with privacy standards and modern security practices.",
+        "Description": "Comprehensive security testing platform for identifying vulnerabilities and ensuring compliance with web security standards.",
         "Favicon Filename": "immuniweb.com.png",
         "Tags": "Security Checker",
         "Priority": ""
@@ -1052,23 +948,23 @@
       {
         "Title": "Japanese Guide - TheMoeWay",
         "URL": "https://learnjapanese.moe/guide/",
-        "Description": "Structured guide that offers methods and resources for learning Japanese through immersion and self-study.",
+        "Description": "Comprehensive guide that outlines effective methods and tools for learning the Japanese language.",
         "Favicon Filename": "learnjapanese.moe.png",
         "Tags": "?Guides & Resources",
         "Priority": 0
       },
       {
-        "Title": "Tatsumoto's guide to learning Japanese",
+        "Title": "All Japanese All The Time | AJATT",
         "URL": "https://tatsumoto.neocities.org/blog/",
-        "Description": "Language learning blog that details strategies for achieving Japanese fluency through independent immersion techniques.",
+        "Description": "Blog series documenting immersive strategies for learning Japanese through constant exposure to native content.",
         "Favicon Filename": "tatsumoto.neocities.org.png",
         "Tags": "?Guides & Resources",
         "Priority": 0
       },
       {
-        "Title": "itazuraneko backup",
+        "Title": "(=^?^)????",
         "URL": "https://djtguide.github.io/",
-        "Description": "Archival guide that offers resources and methods for learning Japanese using digital media and software.",
+        "Description": "Language learning guide that offers advice on tools and techniques for mastering Japanese independently.",
         "Favicon Filename": "djtguide.github.io.png",
         "Tags": "?Guides & Resources",
         "Priority": 1
@@ -1076,23 +972,23 @@
       {
         "Title": "Texthooker",
         "URL": "https://learnjapanese.moe/texthooker.html",
-        "Description": "Technical tool that enables users to track and analyze Japanese text captured from external applications.",
+        "Description": "Study tool that captures text from web browsers to facilitate lookups in Japanese dictionaries.",
         "Favicon Filename": "learnjapanese.moe.png",
         "Tags": "??Tools",
         "Priority": 2
       },
       {
-        "Title": "Japanese Verb Conjugation Practice",
+        "Title": "Japanense Verb Conjugation",
         "URL": "https://oops-studio.com/japaneseverbconjugationpractice/quiz/perform/",
-        "Description": "Interactive study tool for practicing Japanese verb conjugations through categorized quizzes and exercises.",
+        "Description": "Interactive quiz platform for practicing Japanese verb conjugation through structured drills and exercises.",
         "Favicon Filename": "oops-studio.com.png",
         "Tags": "??Tools",
         "Priority": ""
       },
       {
-        "Title": "?????",
+        "Title": "Takoboto",
         "URL": "https://takoboto.jp/",
-        "Description": "Language reference tool that provides a searchable dictionary and grammar explanations for Japanese learners.",
+        "Description": "Comprehensive Japanese-English dictionary and vocabulary learning resource for studying the Japanese language.",
         "Favicon Filename": "takoboto.jp.png",
         "Tags": "??Tools",
         "Priority": ""
@@ -1100,23 +996,23 @@
       {
         "Title": "Duolingo",
         "URL": "https://www.duolingo.com/learn",
-        "Description": "Gamified learning platform that provides structured lessons for acquiring vocabulary and grammar in various languages.",
+        "Description": "Gamified language learning platform that provides structured lessons for users to study various foreign languages.",
         "Favicon Filename": "duolingo.com.png",
         "Tags": "??Tools",
         "Priority": ""
       },
       {
-        "Title": "IMABI ??",
+        "Title": "IMABI",
         "URL": "https://imabi.org/",
-        "Description": "Comprehensive online curriculum providing detailed lessons on Japanese grammar, vocabulary, and linguistic history.",
+        "Description": "Educational website providing a comprehensive curriculum for learning Japanese grammar and language structures.",
         "Favicon Filename": "imabi.org.png",
         "Tags": "???",
         "Priority": ""
       },
       {
-        "Title": "?????",
+        "Title": "JLPT??????? - ???NET",
         "URL": "https://nihongokyoshi-net.com/jlpt-grammars/",
-        "Description": "Educational resource site that organizes Japanese grammar points by JLPT proficiency level for students.",
+        "Description": "Online repository providing explanations and examples for Japanese grammar points categorized by JLPT proficiency level.",
         "Favicon Filename": "nihongokyoshi-net.com.png",
         "Tags": "???",
         "Priority": ""
@@ -1124,7 +1020,7 @@
       {
         "Title": "?????",
         "URL": "https://djtguide.github.io/grammar/masterreference.html",
-        "Description": "Reference list that organizes Japanese grammar patterns for learners to use as a study guide.",
+        "Description": "Reference guide providing a detailed index of Japanese sentence patterns and their grammatical usage.",
         "Favicon Filename": "djtguide.github.io.png",
         "Tags": "???",
         "Priority": ""
@@ -1132,7 +1028,7 @@
       {
         "Title": "DoJG main menu",
         "URL": "https://djtguide.github.io/grammar/dojgmain.html",
-        "Description": "Navigation menu for the Dictionary of Japanese Grammar series, providing structured links to grammar explanations.",
+        "Description": "Reference index for the Dictionary of Japanese Grammar series, offering explanations for various grammatical structures.",
         "Favicon Filename": "djtguide.github.io.png",
         "Tags": "???",
         "Priority": ""
@@ -1140,15 +1036,15 @@
       {
         "Title": "????????? main",
         "URL": "https://djtguide.github.io/grammar/donnatoki.html",
-        "Description": "Reference collection that explains the usage and nuances of common Japanese grammar patterns for learners.",
+        "Description": "Detailed reference guide for understanding the nuances and usage contexts of various Japanese grammatical points.",
         "Favicon Filename": "djtguide.github.io.png",
         "Tags": "???",
         "Priority": ""
       },
       {
-        "Title": "Handbook of Japanese Grammar reference",
+        "Title": "Handbook of Japanese Grammar Reference",
         "URL": "https://djtguide.github.io/grammar/hjg.html",
-        "Description": "Study guide that compiles explanations of Japanese grammar points and rules for language students.",
+        "Description": "Compilation of Japanese grammar rules and structures organized for systematic study and reference.",
         "Favicon Filename": "djtguide.github.io.png",
         "Tags": "???",
         "Priority": ""
@@ -1156,39 +1052,31 @@
       {
         "Title": "visualizing japanese grammar",
         "URL": "https://djtguide.github.io/grammar/vjg.html",
-        "Description": "Visual reference tool that illustrates Japanese grammar concepts to assist students in understanding complex structures.",
+        "Description": "Visual guide for learning Japanese grammar through diagrams and structural representations of sentence patterns.",
         "Favicon Filename": "djtguide.github.io.png",
         "Tags": "???",
         "Priority": ""
       },
       {
-        "Title": "Tofugu Japanese Grammar Index",
+        "Title": "The Japanese Grammar Index",
         "URL": "https://www.tofugu.com/japanese-grammar/",
-        "Description": "Educational resource index that provides detailed explanations and examples for various Japanese grammar points.",
+        "Description": "Educational index providing structured lessons and explanations for various Japanese grammar points for learners.",
         "Favicon Filename": "tofugu.com.png",
         "Tags": "???",
         "Priority": ""
       },
       {
-        "Title": "A Dictionary of Japanese Grammar",
+        "Title": "DoJg",
         "URL": "https://core6000.neocities.org/dojg/",
-        "Description": "Reference website that provides detailed explanations and examples for Japanese grammatical structures.",
+        "Description": "Web-based tool that provides offline reading lists for Japanese manga and literature titles.",
         "Favicon Filename": "",
-        "Tags": "???",
-        "Priority": ""
-      },
-      {
-        "Title": "MangaReader",
-        "URL": "https://mangareader.to/",
-        "Description": "Digital library that provides users with an interface to browse and read manga titles.",
-        "Favicon Filename": "mangareader.to.png",
         "Tags": "???",
         "Priority": ""
       },
       {
         "Title": "Rawkuma",
         "URL": "https://rawkuma.com/",
-        "Description": "Content portal that hosts raw Japanese manga chapters for users to read online.",
+        "Description": "Digital repository that provides raw Japanese manga chapters for free download and online reading.",
         "Favicon Filename": "rawkuma.com.png",
         "Tags": "???",
         "Priority": ""
@@ -1196,7 +1084,7 @@
       {
         "Title": "Bilingual Manga",
         "URL": "https://bilingualmanga.org/",
-        "Description": "Language learning resource that presents manga pages with side-by-side Japanese and English translations.",
+        "Description": "Educational website that hosts manga chapters with side-by-side Japanese and English language translations.",
         "Favicon Filename": "bilingualmanga.org.png",
         "Tags": "???",
         "Priority": ""
@@ -1204,7 +1092,7 @@
       {
         "Title": "MANGA ZIP",
         "URL": "https://manga-zip.info/home.i1/",
-        "Description": "File repository that allows users to download complete volumes of various manga series.",
+        "Description": "File hosting site that offers free downloadable archives of raw Japanese manga volumes.",
         "Favicon Filename": "manga-zip.info.png",
         "Tags": "???",
         "Priority": ""
@@ -1212,7 +1100,7 @@
       {
         "Title": "Raw Otaku",
         "URL": "https://rawotaku.com/home/",
-        "Description": "Database platform that compiles and distributes raw Japanese manga chapters for online viewing.",
+        "Description": "Content aggregator that provides access to various raw manga series for Japanese-speaking readers.",
         "Favicon Filename": "rawotaku.com.png",
         "Tags": "???",
         "Priority": ""
@@ -1220,7 +1108,7 @@
       {
         "Title": "?????",
         "URL": "https://boroboro.neocities.org/listfullepub",
-        "Description": "Curated directory that lists links to various ePub files for Japanese literature and reading.",
+        "Description": "Web page providing a curated list of downloadable EPUB files for various Japanese books.",
         "Favicon Filename": "boroboro.neocities.org.png",
         "Tags": "???????",
         "Priority": ""
@@ -1228,39 +1116,39 @@
       {
         "Title": "????",
         "URL": "https://kakuyomu.jp/",
-        "Description": "Web-based publishing platform where users can post and read amateur Japanese web novels.",
+        "Description": "Writing platform that allows users to publish, read, and share original Japanese web novels.",
         "Favicon Filename": "kakuyomu.jp.png",
         "Tags": "???????",
         "Priority": ""
       },
       {
-        "Title": "???????",
+        "Title": "????? - SS????????-",
         "URL": "https://syosetu.org/",
-        "Description": "Writing community site that enables authors to publish and share original Japanese serial fiction.",
+        "Description": "Community-driven literature site for posting and reading Japanese light novels and fan fiction.",
         "Favicon Filename": "syosetu.org.png",
         "Tags": "???????",
         "Priority": ""
       },
       {
-        "Title": "?????Aozora Bunko",
+        "Title": "???? Aozora Bunko",
         "URL": "https://www.aozora.gr.jp/",
-        "Description": "Digital archive that provides free access to out-of-copyright Japanese literary works.",
+        "Description": "Digital library that preserves and distributes public domain Japanese literature in various formats.",
         "Favicon Filename": "aozora.gr.jp.png",
         "Tags": "???????",
         "Priority": ""
       },
       {
-        "Title": "Aozora Bunko stats",
+        "Title": "Aozora Links",
         "URL": "https://core6000.neocities.org/aozora/",
-        "Description": "Analytical tool that provides statistical data on the frequency of vocabulary in Aozora Bunko texts.",
+        "Description": "Web resource providing organized links and guides for accessing Aozora Bunko literature collections.",
         "Favicon Filename": "",
         "Tags": "???????",
         "Priority": ""
       },
       {
-        "Title": "Home - jp-mining-note",
+        "Title": "jp-mining-note",
         "URL": "https://aquafina-water-bottle.github.io/jp-mining-note/",
-        "Description": "Educational resource that provides a comprehensive Anki deck setup for learning Japanese through immersion.",
+        "Description": "Anki-based study guide designed to assist users in mining vocabulary from Japanese media content.",
         "Favicon Filename": "aquafina-water-bottle.github.io.png",
         "Tags": "?Guides & Resources",
         "Priority": ""
@@ -1268,7 +1156,7 @@
       {
         "Title": "The Resources",
         "URL": "https://kuzuri.neocities.org/resources",
-        "Description": "Resource list that aggregates various tools and documents for students learning the Japanese language.",
+        "Description": "Personal collection of links and resources compiled to support independent Japanese language learning.",
         "Favicon Filename": "",
         "Tags": "?Guides & Resources",
         "Priority": ""
@@ -1276,7 +1164,7 @@
       {
         "Title": "?? Ebook Reader",
         "URL": "https://reader.ttsu.app/manage",
-        "Description": "Browser-based application that allows users to manage and read e-books in various digital formats.",
+        "Description": "Browser-based ebook reader that allows users to manage and read digital book files.",
         "Favicon Filename": "reader.ttsu.app.png",
         "Tags": "??Tools",
         "Priority": ""
@@ -1284,9 +1172,19 @@
       {
         "Title": "Texthooker UI",
         "URL": "https://renji-xd.github.io/texthooker-ui/",
-        "Description": "Web-based interface that captures and displays text extracted from Japanese applications for vocabulary study.",
+        "Description": "User interface tool that hooks text from external sources to assist with Japanese language study.",
         "Favicon Filename": "",
         "Tags": "??Tools",
+        "Priority": ""
+      }
+    ],
+    "Uncategorized": [
+      {
+        "Title": "",
+        "URL": "",
+        "Description": "",
+        "Favicon Filename": "",
+        "Tags": "",
         "Priority": ""
       }
     ],
@@ -1294,7 +1192,7 @@
       {
         "Title": "ChatGPT",
         "URL": "https://chatgpt.com/",
-        "Description": "Conversational AI platform that generates text responses to user prompts using a large language model.",
+        "Description": "AI-powered chat service that facilitates conversational interactions and text generation across various topics.",
         "Favicon Filename": "chatgpt.com.png",
         "Tags": "",
         "Priority": ""
@@ -1304,47 +1202,47 @@
       {
         "Title": "VirusTotal",
         "URL": "https://www.virustotal.com/gui/home/upload",
-        "Description": "Web-based tool that scans files and URLs using multiple antivirus engines to detect malicious content.",
+        "Description": "Web-based tool that analyzes suspicious files and URLs using multiple antivirus engines and website scanners.",
         "Favicon Filename": "virustotal.com.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "Hybrid Analysis",
+        "Title": "Automated Malware Analysis Service",
         "URL": "https://www.hybrid-analysis.com/",
-        "Description": "Online service for performing deep malware analysis on suspicious files using custom-built sandbox environments.",
+        "Description": "Online security service that performs automated malware analysis on submitted files and provides detailed reports.",
         "Favicon Filename": "hybrid-analysis.com.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "Kaspersky Threat Intelligence",
+        "Title": "Kaspersky Virus Scanner",
         "URL": "https://opentip.kaspersky.com/",
-        "Description": "Security portal that provides file reputation analysis and threat intelligence data from Kaspersky security products.",
+        "Description": "Security platform that scans submitted files and hashes to identify potential threats using Kaspersky databases.",
         "Favicon Filename": "opentip.kaspersky.com.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "VirScan - ???????????",
+        "Title": "Virscan",
         "URL": "https://www.virscan.org/",
-        "Description": "Free online service that analyzes uploaded files using various antivirus scanners to identify potential threats.",
+        "Description": "",
         "Favicon Filename": "virscan.org.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "MetaDefender",
+        "Title": "Dashboard | MetaDefender Cloud",
         "URL": "https://metadefender.opswat.com/",
-        "Description": "Threat analysis platform that scans files and email attachments with multiple anti-malware engines simultaneously.",
+        "Description": "Multi-scanning platform that uses various antivirus engines and data sanitization technologies to detect malicious content.",
         "Favicon Filename": "metadefender.opswat.com.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "Jotti's malware scan",
+        "Title": "Jotti's Malware scan",
         "URL": "https://virusscan.jotti.org/",
-        "Description": "Multi-engine malware scanning service that allows users to check suspicious files against numerous antivirus programs.",
+        "Description": "Free malware scanning service that checks uploaded files against a variety of different antivirus software programs.",
         "Favicon Filename": "virusscan.jotti.org.png",
         "Tags": "",
         "Priority": ""
