@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-05-31T12:12:33.297Z",
+  "last_updated": "2026-06-01T21:24:14.289Z",
   "total_rows": 153,
   "categories": {
-    "?? 7 seas": [
+    "☠️ 7 seas": [
       {
         "Title": "freemediaheckyeah",
         "URL": "https://fmhy.net/",
         "Description": "Web-based directory that aggregates links to free educational, software, and media resources for internet users.",
         "Favicon Filename": "fmhy.net.png",
-        "Tags": "? Directory",
+        "Tags": "🦜 Directory",
         "Priority": 1
       },
       {
@@ -60,7 +60,7 @@
         "Priority": ""
       }
     ],
-    "? Programming": [
+    "💽 Programming": [
       {
         "Title": "Exercism",
         "URL": "https://exercism.org/dashboard",
@@ -94,7 +94,7 @@
         "Priority": ""
       }
     ],
-    "? Tracking": [
+    "📊 Tracking": [
       {
         "Title": "Backloggd",
         "URL": "https://www.backloggd.com/",
@@ -136,7 +136,7 @@
         "Priority": ""
       }
     ],
-    "? Uncategorized": [
+    "📦 Uncategorized": [
       {
         "Title": "daily.dev",
         "URL": "https://app.daily.dev/",
@@ -162,7 +162,7 @@
         "Priority": ""
       }
     ],
-    "? Entertainment": [
+    "📺 Entertainment": [
       {
         "Title": "Holodex",
         "URL": "https://holodex.net/",
@@ -228,7 +228,7 @@
         "Priority": ""
       }
     ],
-    "?? Design": [
+    "🖌️ Design": [
       {
         "Title": "Designer Daily Report",
         "URL": "https://app.designerdailyreport.com/",
@@ -254,7 +254,7 @@
         "Priority": ""
       }
     ],
-    "?? Web Dev": [
+    "🖥️ Web Dev": [
       {
         "Title": "Compressor.io",
         "URL": "https://compressor.io/",
@@ -944,13 +944,13 @@
         "Priority": ""
       }
     ],
-    "? ??????": [
+    "🗻 日本語学んで": [
       {
         "Title": "Japanese Guide - TheMoeWay",
         "URL": "https://learnjapanese.moe/guide/",
         "Description": "Comprehensive guide that outlines effective methods and tools for learning the Japanese language.",
         "Favicon Filename": "learnjapanese.moe.png",
-        "Tags": "?Guides & Resources",
+        "Tags": "🗝Guides & Resources",
         "Priority": 0
       },
       {
@@ -958,15 +958,15 @@
         "URL": "https://tatsumoto.neocities.org/blog/",
         "Description": "Blog series documenting immersive strategies for learning Japanese through constant exposure to native content.",
         "Favicon Filename": "tatsumoto.neocities.org.png",
-        "Tags": "?Guides & Resources",
+        "Tags": "🗝Guides & Resources",
         "Priority": 0
       },
       {
-        "Title": "(=^?^)????",
+        "Title": "(=^ᆺ^)ﾉ日本語",
         "URL": "https://djtguide.github.io/",
         "Description": "Language learning guide that offers advice on tools and techniques for mastering Japanese independently.",
         "Favicon Filename": "djtguide.github.io.png",
-        "Tags": "?Guides & Resources",
+        "Tags": "🗝Guides & Resources",
         "Priority": 1
       },
       {
@@ -974,7 +974,7 @@
         "URL": "https://learnjapanese.moe/texthooker.html",
         "Description": "Study tool that captures text from web browsers to facilitate lookups in Japanese dictionaries.",
         "Favicon Filename": "learnjapanese.moe.png",
-        "Tags": "??Tools",
+        "Tags": "🛠️Tools",
         "Priority": 2
       },
       {
@@ -982,7 +982,7 @@
         "URL": "https://oops-studio.com/japaneseverbconjugationpractice/quiz/perform/",
         "Description": "Interactive quiz platform for practicing Japanese verb conjugation through structured drills and exercises.",
         "Favicon Filename": "oops-studio.com.png",
-        "Tags": "??Tools",
+        "Tags": "🛠️Tools",
         "Priority": ""
       },
       {
@@ -990,7 +990,7 @@
         "URL": "https://takoboto.jp/",
         "Description": "Comprehensive Japanese-English dictionary and vocabulary learning resource for studying the Japanese language.",
         "Favicon Filename": "takoboto.jp.png",
-        "Tags": "??Tools",
+        "Tags": "🛠️Tools",
         "Priority": ""
       },
       {
@@ -998,7 +998,7 @@
         "URL": "https://www.duolingo.com/learn",
         "Description": "Gamified language learning platform that provides structured lessons for users to study various foreign languages.",
         "Favicon Filename": "duolingo.com.png",
-        "Tags": "??Tools",
+        "Tags": "🛠️Tools",
         "Priority": ""
       },
       {
@@ -1006,23 +1006,23 @@
         "URL": "https://imabi.org/",
         "Description": "Educational website providing a comprehensive curriculum for learning Japanese grammar and language structures.",
         "Favicon Filename": "imabi.org.png",
-        "Tags": "???",
+        "Tags": "🧠文法",
         "Priority": ""
       },
       {
-        "Title": "JLPT??????? - ???NET",
+        "Title": "JLPT文法解説まとめ - 日本語NET",
         "URL": "https://nihongokyoshi-net.com/jlpt-grammars/",
         "Description": "Online repository providing explanations and examples for Japanese grammar points categorized by JLPT proficiency level.",
         "Favicon Filename": "nihongokyoshi-net.com.png",
-        "Tags": "???",
+        "Tags": "🧠文法",
         "Priority": ""
       },
       {
-        "Title": "?????",
+        "Title": "文型一覧表",
         "URL": "https://djtguide.github.io/grammar/masterreference.html",
         "Description": "Reference guide providing a detailed index of Japanese sentence patterns and their grammatical usage.",
         "Favicon Filename": "djtguide.github.io.png",
-        "Tags": "???",
+        "Tags": "🧠文法",
         "Priority": ""
       },
       {
@@ -1030,15 +1030,15 @@
         "URL": "https://djtguide.github.io/grammar/dojgmain.html",
         "Description": "Reference index for the Dictionary of Japanese Grammar series, offering explanations for various grammatical structures.",
         "Favicon Filename": "djtguide.github.io.png",
-        "Tags": "???",
+        "Tags": "🧠文法",
         "Priority": ""
       },
       {
-        "Title": "????????? main",
+        "Title": "どんなときどう使う main",
         "URL": "https://djtguide.github.io/grammar/donnatoki.html",
         "Description": "Detailed reference guide for understanding the nuances and usage contexts of various Japanese grammatical points.",
         "Favicon Filename": "djtguide.github.io.png",
-        "Tags": "???",
+        "Tags": "🧠文法",
         "Priority": ""
       },
       {
@@ -1046,7 +1046,7 @@
         "URL": "https://djtguide.github.io/grammar/hjg.html",
         "Description": "Compilation of Japanese grammar rules and structures organized for systematic study and reference.",
         "Favicon Filename": "djtguide.github.io.png",
-        "Tags": "???",
+        "Tags": "🧠文法",
         "Priority": ""
       },
       {
@@ -1054,7 +1054,7 @@
         "URL": "https://djtguide.github.io/grammar/vjg.html",
         "Description": "Visual guide for learning Japanese grammar through diagrams and structural representations of sentence patterns.",
         "Favicon Filename": "djtguide.github.io.png",
-        "Tags": "???",
+        "Tags": "🧠文法",
         "Priority": ""
       },
       {
@@ -1062,7 +1062,7 @@
         "URL": "https://www.tofugu.com/japanese-grammar/",
         "Description": "Educational index providing structured lessons and explanations for various Japanese grammar points for learners.",
         "Favicon Filename": "tofugu.com.png",
-        "Tags": "???",
+        "Tags": "🧠文法",
         "Priority": ""
       },
       {
@@ -1070,7 +1070,7 @@
         "URL": "https://core6000.neocities.org/dojg/",
         "Description": "Web-based tool that provides offline reading lists for Japanese manga and literature titles.",
         "Favicon Filename": "",
-        "Tags": "???",
+        "Tags": "🧠文法",
         "Priority": ""
       },
       {
@@ -1078,7 +1078,7 @@
         "URL": "https://rawkuma.com/",
         "Description": "Digital repository that provides raw Japanese manga chapters for free download and online reading.",
         "Favicon Filename": "rawkuma.com.png",
-        "Tags": "???",
+        "Tags": "🍤漫画",
         "Priority": ""
       },
       {
@@ -1086,7 +1086,7 @@
         "URL": "https://bilingualmanga.org/",
         "Description": "Educational website that hosts manga chapters with side-by-side Japanese and English language translations.",
         "Favicon Filename": "bilingualmanga.org.png",
-        "Tags": "???",
+        "Tags": "🍤漫画",
         "Priority": ""
       },
       {
@@ -1094,7 +1094,7 @@
         "URL": "https://manga-zip.info/home.i1/",
         "Description": "File hosting site that offers free downloadable archives of raw Japanese manga volumes.",
         "Favicon Filename": "manga-zip.info.png",
-        "Tags": "???",
+        "Tags": "🍤漫画",
         "Priority": ""
       },
       {
@@ -1102,39 +1102,39 @@
         "URL": "https://rawotaku.com/home/",
         "Description": "Content aggregator that provides access to various raw manga series for Japanese-speaking readers.",
         "Favicon Filename": "rawotaku.com.png",
-        "Tags": "???",
+        "Tags": "🍤漫画",
         "Priority": ""
       },
       {
-        "Title": "?????",
+        "Title": "全ｅｐｕｂ",
         "URL": "https://boroboro.neocities.org/listfullepub",
         "Description": "Web page providing a curated list of downloadable EPUB files for various Japanese books.",
         "Favicon Filename": "boroboro.neocities.org.png",
-        "Tags": "???????",
+        "Tags": "📘青空からの本",
         "Priority": ""
       },
       {
-        "Title": "????",
+        "Title": "カクヨム",
         "URL": "https://kakuyomu.jp/",
         "Description": "Writing platform that allows users to publish, read, and share original Japanese web novels.",
         "Favicon Filename": "kakuyomu.jp.png",
-        "Tags": "???????",
+        "Tags": "📘青空からの本",
         "Priority": ""
       },
       {
-        "Title": "????? - SS????????-",
+        "Title": "ハーメルン - SS･小説投稿サイト-",
         "URL": "https://syosetu.org/",
         "Description": "Community-driven literature site for posting and reading Japanese light novels and fan fiction.",
         "Favicon Filename": "syosetu.org.png",
-        "Tags": "???????",
+        "Tags": "📘青空からの本",
         "Priority": ""
       },
       {
-        "Title": "???? Aozora Bunko",
+        "Title": "青空文庫 Aozora Bunko",
         "URL": "https://www.aozora.gr.jp/",
         "Description": "Digital library that preserves and distributes public domain Japanese literature in various formats.",
         "Favicon Filename": "aozora.gr.jp.png",
-        "Tags": "???????",
+        "Tags": "📘青空からの本",
         "Priority": ""
       },
       {
@@ -1142,7 +1142,7 @@
         "URL": "https://core6000.neocities.org/aozora/",
         "Description": "Web resource providing organized links and guides for accessing Aozora Bunko literature collections.",
         "Favicon Filename": "",
-        "Tags": "???????",
+        "Tags": "📘青空からの本",
         "Priority": ""
       },
       {
@@ -1150,7 +1150,7 @@
         "URL": "https://aquafina-water-bottle.github.io/jp-mining-note/",
         "Description": "Anki-based study guide designed to assist users in mining vocabulary from Japanese media content.",
         "Favicon Filename": "aquafina-water-bottle.github.io.png",
-        "Tags": "?Guides & Resources",
+        "Tags": "🗝Guides & Resources",
         "Priority": ""
       },
       {
@@ -1158,15 +1158,15 @@
         "URL": "https://kuzuri.neocities.org/resources",
         "Description": "Personal collection of links and resources compiled to support independent Japanese language learning.",
         "Favicon Filename": "",
-        "Tags": "?Guides & Resources",
+        "Tags": "🗝Guides & Resources",
         "Priority": ""
       },
       {
-        "Title": "?? Ebook Reader",
+        "Title": "ッツ Ebook Reader",
         "URL": "https://reader.ttsu.app/manage",
         "Description": "Browser-based ebook reader that allows users to manage and read digital book files.",
         "Favicon Filename": "reader.ttsu.app.png",
-        "Tags": "??Tools",
+        "Tags": "🛠️Tools",
         "Priority": ""
       },
       {
@@ -1174,7 +1174,7 @@
         "URL": "https://renji-xd.github.io/texthooker-ui/",
         "Description": "User interface tool that hooks text from external sources to assist with Japanese language study.",
         "Favicon Filename": "",
-        "Tags": "??Tools",
+        "Tags": "🛠️Tools",
         "Priority": ""
       }
     ],
@@ -1188,7 +1188,7 @@
         "Priority": ""
       }
     ],
-    "? A.I": [
+    "🤖 A.I": [
       {
         "Title": "ChatGPT",
         "URL": "https://chatgpt.com/",
@@ -1198,7 +1198,7 @@
         "Priority": ""
       }
     ],
-    "?Virus Checker": [
+    "🦠Virus Checker": [
       {
         "Title": "VirusTotal",
         "URL": "https://www.virustotal.com/gui/home/upload",
