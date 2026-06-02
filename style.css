@@ -389,6 +389,14 @@ main p {
   font-size: 0.9rem;
 }
 
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  margin-bottom: 0.8rem;
+}
+
 .tag {
   background-color: var(--secondary-text-clr);
   color: var(--base-clr);
