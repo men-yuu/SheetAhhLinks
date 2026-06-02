@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-01T21:24:14.289Z",
-  "total_rows": 153,
+  "last_updated": "2026-06-02T04:08:23.796Z",
+  "total_rows": 152,
   "categories": {
     "☠️ 7 seas": [
       {
@@ -1178,16 +1178,6 @@
         "Priority": ""
       }
     ],
-    "Uncategorized": [
-      {
-        "Title": "",
-        "URL": "",
-        "Description": "",
-        "Favicon Filename": "",
-        "Tags": "",
-        "Priority": ""
-      }
-    ],
     "🤖 A.I": [
       {
         "Title": "ChatGPT",
@@ -1226,7 +1216,7 @@
       {
         "Title": "Virscan",
         "URL": "https://www.virscan.org/",
-        "Description": "",
+        "Description": "A web-based security service that scans uploaded files using multiple antivirus engines to detect malicious content.",
         "Favicon Filename": "virscan.org.png",
         "Tags": "",
         "Priority": ""
