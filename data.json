@@ -1,61 +1,77 @@
 {
-  "last_updated": "2026-06-12T17:49:37.916Z",
+  "last_updated": "2026-06-13T22:07:49.904Z",
   "total_rows": 208,
   "categories": {
-    "☠️ 7 seas": [
+    "🔄 Frequently Used": [
       {
-        "Title": "freemediaheckyeah",
-        "URL": "https://fmhy.net/",
-        "Description": "Web-based directory that aggregates links to free educational, software, and media resources for internet users.",
-        "Favicon Filename": "fmhy.net.png",
-        "Tags": "🦜 Directory",
-        "Priority": 1
-      },
-      {
-        "Title": "Media Savvy Piracy Wiki",
-        "URL": "https://mediasavvy.pages.dev/Wiki/",
-        "Description": "Online wiki that provides guides and information regarding digital media consumption and internet safety practices.",
-        "Favicon Filename": "mediasavvy.pages.dev.png",
-        "Tags": "🦜 Directory",
-        "Priority": 1
-      },
-      {
-        "Title": "/r/Roms Megathread",
-        "URL": "https://r-roms.github.io/",
-        "Description": "Community repository that hosts links and information for locating video game ROMs and emulation resources.",
-        "Favicon Filename": "r-roms.github.io.png",
-        "Tags": "🦜 Directory",
-        "Priority": ""
-      },
-      {
-        "Title": "Rave Book Search",
-        "URL": "https://ravebooksearch.com/",
-        "Description": "Search tool that allows users to find and compare book prices across various online retailers.",
-        "Favicon Filename": "ravebooksearch.com.png",
+        "Title": "Duck.ai",
+        "URL": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
+        "Description": "Privacy-focused chat interface providing access to multiple large language models without requiring user account registration.",
+        "Favicon Filename": "duckduckgo.com.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "r/Privacy Megathread",
-        "URL": "https://rentry.co/megathread",
-        "Description": "Community-maintained document that lists privacy-focused tools, services, and best practices for protecting user data.",
-        "Favicon Filename": "rentry.co.png",
-        "Tags": "🦜 Directory",
-        "Priority": ""
-      },
-      {
-        "Title": "Ripped",
-        "URL": "https://ripped.guide/",
-        "Description": "Educational website that offers curated guides for finding and accessing digital media and software online.",
-        "Favicon Filename": "ripped.guide.png",
+        "Title": "Gemini",
+        "URL": "https://gemini.google.com/app",
+        "Description": "Generative AI assistant that helps users with writing, planning, brainstorming, and complex problem-solving tasks.",
+        "Favicon Filename": "gemini.google.com.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "Download New Movies",
-        "URL": "https://watchsomuch.to/Movies/",
-        "Description": "Media portal that enables users to download movies and television shows via peer-to-peer file sharing.",
-        "Favicon Filename": "watchsomuch.to.png",
+        "Title": "HiAnime",
+        "URL": "https://hianime.to/",
+        "Description": "Streaming website that provides a library of anime series and films for online viewing.",
+        "Favicon Filename": "hianime.to.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "HoloDex",
+        "URL": "https://holodex.net/",
+        "Description": "Video discovery platform that organizes and archives live streams from various VTubers and content creators.",
+        "Favicon Filename": "holodex.net.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "NotebookLM",
+        "URL": "https://notebooklm.google/",
+        "Description": "AI research assistant that analyzes user-provided documents to summarize content and generate insights from sources.",
+        "Favicon Filename": "notebooklm.google.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Perplexity",
+        "URL": "https://www.perplexity.ai/",
+        "Description": "Conversational search engine that provides cited answers to user queries using real-time web information.",
+        "Favicon Filename": "perplexity.ai.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Reddit",
+        "URL": "https://www.reddit.com/",
+        "Description": "Social media platform featuring user-generated content and discussions organized into themed communities called subreddits.",
+        "Favicon Filename": "reddit.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Twitch",
+        "URL": "https://www.twitch.tv/",
+        "Description": "Livestreaming service that hosts interactive broadcasts covering gaming, music, sports, and other entertainment content.",
+        "Favicon Filename": "twitch.tv.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Youtube",
+        "URL": "https://www.youtube.com/",
+        "Description": "Video hosting platform that allows users to upload, view, and share content with a global audience.",
+        "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
       }
@@ -64,7 +80,7 @@
       {
         "Title": "AllTheTags",
         "URL": "https://allthetags.com/",
-        "Description": "Search engine that retrieves popular and trending hashtags for use across various social media platforms.",
+        "Description": "Reference catalog listing all standard HTML5 elements with brief explanations for web development documentation.",
         "Favicon Filename": "allthetags.com.png",
         "Tags": "",
         "Priority": ""
@@ -72,7 +88,7 @@
       {
         "Title": "AppDevTools",
         "URL": "https://appdevtools.com/",
-        "Description": "Curated collection of software development tools and resources for web and mobile application creators.",
+        "Description": "Collection of web-based utilities for software developers including formatters, encoders, converters, and data validators.",
         "Favicon Filename": "appdevtools.com.png",
         "Tags": "",
         "Priority": ""
@@ -80,7 +96,7 @@
       {
         "Title": "Bulk Resize Photos",
         "URL": "https://bulkresizephotos.com/en",
-        "Description": "Web-based utility that processes and resizes multiple image files simultaneously directly within the browser interface.",
+        "Description": "Browser-based tool for resizing individual or multiple image files simultaneously without requiring user accounts.",
         "Favicon Filename": "bulkresizephotos.com.png",
         "Tags": "",
         "Priority": ""
@@ -88,7 +104,7 @@
       {
         "Title": "CSS-Tricks",
         "URL": "https://css-tricks.com/",
-        "Description": "Educational website that provides articles, guides, and tutorials focused on web design and development practices.",
+        "Description": "Educational website offering articles, tutorials, and insights on front-end web development and CSS techniques.",
         "Favicon Filename": "css-tricks.com.png",
         "Tags": "",
         "Priority": ""
@@ -96,7 +112,7 @@
       {
         "Title": "CSS Reference",
         "URL": "https://cssreference.io/",
-        "Description": "Visual guide that documents CSS properties with examples to explain their usage and functional impact.",
+        "Description": "Visual guide illustrating common CSS properties through interactive examples and animated demonstrations for developers.",
         "Favicon Filename": "cssreference.io.png",
         "Tags": "",
         "Priority": ""
@@ -104,7 +120,7 @@
       {
         "Title": "DevHints",
         "URL": "https://devhints.io/",
-        "Description": "Repository of quick-reference cheat sheets for various programming languages, frameworks, and developer productivity tools.",
+        "Description": "Repository of quick-reference cheatsheets covering various programming languages, frameworks, and command-line utilities.",
         "Favicon Filename": "devhints.io.png",
         "Tags": "",
         "Priority": ""
@@ -112,7 +128,7 @@
       {
         "Title": "html2pdf.js (EKoopmans)",
         "URL": "https://ekoopmans.github.io/html2pdf.js/",
-        "Description": "JavaScript library that converts HTML content into downloadable PDF documents using client-side rendering.",
+        "Description": "JavaScript library that converts HTML content into PDF documents entirely on the client side.",
         "Favicon Filename": "",
         "Tags": "",
         "Priority": ""
@@ -120,7 +136,7 @@
       {
         "Title": "QR Code Generator (Marko Denic)",
         "URL": "https://markodenic.com/tools/qr-code-generator/",
-        "Description": "Online utility for creating custom QR codes from input text, URLs, or other digital information.",
+        "Description": "Online tool for generating custom QR codes from URLs, text strings, and other input data.",
         "Favicon Filename": "markodenic.com.png",
         "Tags": "",
         "Priority": ""
@@ -128,7 +144,7 @@
       {
         "Title": "OverAPI",
         "URL": "https://overapi.com/",
-        "Description": "Aggregator platform that organizes cheat sheets for numerous programming languages and development-related technologies.",
+        "Description": "Collection of programming cheatsheets that provide quick reference material for developers across various languages.",
         "Favicon Filename": "overapi.com.png",
         "Tags": "",
         "Priority": ""
@@ -136,7 +152,7 @@
       {
         "Title": "Watermarkly (Compress JPEG)",
         "URL": "https://watermarkly.com/compress-jpeg/",
-        "Description": "Browser-based tool that reduces the file size of JPEG images to optimize them for storage.",
+        "Description": "Web-based utility that reduces the file size of JPEG images while maintaining visual quality.",
         "Favicon Filename": "watermarkly.com.png",
         "Tags": "",
         "Priority": ""
@@ -144,7 +160,7 @@
       {
         "Title": "Built At LightSpeed",
         "URL": "https://www.builtatlightspeed.com/",
-        "Description": "Comparison tool that calculates the potential load time savings of using different web hosting providers.",
+        "Description": "Web-based tool that calculates the potential performance improvements of a website by changing its stack.",
         "Favicon Filename": "builtatlightspeed.com.png",
         "Tags": "",
         "Priority": ""
@@ -154,7 +170,7 @@
       {
         "Title": "A Soft Murmur",
         "URL": "https://asoftmurmur.com/",
-        "Description": "Ambient sound generator that allows users to layer various background noises to create soundscapes.",
+        "Description": "Web-based sound generator that allows users to mix various ambient background noises for relaxation.",
         "Favicon Filename": "asoftmurmur.com.png",
         "Tags": "",
         "Priority": ""
@@ -162,7 +178,7 @@
       {
         "Title": "AudiobookBay",
         "URL": "https://audiobookbay.lu/",
-        "Description": "Community-driven directory that tracks and shares links for downloading various audiobook files and collections.",
+        "Description": "Community-driven platform for users to download and share unabridged audiobooks across multiple genres.",
         "Favicon Filename": "audiobookbay.lu.png",
         "Tags": "",
         "Priority": ""
@@ -170,7 +186,7 @@
       {
         "Title": "Custom Google CSE (audio search)",
         "URL": "https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io#gsc.tab=0",
-        "Description": "Custom search engine filtered to index websites and resources specifically related to audio and sound.",
+        "Description": "Customized Google search engine configured to index and retrieve specific audio content from the web.",
         "Favicon Filename": "cse.google.com.png",
         "Tags": "",
         "Priority": ""
@@ -178,7 +194,7 @@
       {
         "Title": "YouTube Music",
         "URL": "https://music.youtube.com/",
-        "Description": "Streaming service that provides access to a large library of music, albums, and video content.",
+        "Description": "Music streaming platform that provides access to a large library of songs, albums, and videos.",
         "Favicon Filename": "music.youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -186,7 +202,7 @@
       {
         "Title": "myNoise",
         "URL": "https://mynoise.net/",
-        "Description": "Web platform offering customizable soundscapes and noise-canceling audio designed to mask distracting environmental sounds.",
+        "Description": "Audio platform providing customizable soundscapes, including nature sounds and noise textures, for focus and relaxation.",
         "Favicon Filename": "mynoise.net.png",
         "Tags": "",
         "Priority": ""
@@ -194,7 +210,7 @@
       {
         "Title": "Radio Garden",
         "URL": "https://radio.garden/",
-        "Description": "Interactive globe interface that allows users to explore and listen to live radio broadcasts worldwide.",
+        "Description": "Interactive globe interface that allows users to locate and listen to live radio broadcasts worldwide.",
         "Favicon Filename": "radio.garden.png",
         "Tags": "",
         "Priority": ""
@@ -202,7 +218,7 @@
       {
         "Title": "Rave Audiobooks Search",
         "URL": "https://ravebooksearch.com/index-audiobooks#gsc.tab=0",
-        "Description": "Specialized search engine designed to help users locate specific audiobook files across multiple digital sources.",
+        "Description": "Search tool designed to locate audiobooks across multiple online libraries and public content repositories.",
         "Favicon Filename": "ravebooksearch.com.png",
         "Tags": "",
         "Priority": ""
@@ -212,7 +228,7 @@
       {
         "Title": "HTTPster",
         "URL": "https://httpster.net/",
-        "Description": "Curated gallery showcasing contemporary website designs to serve as inspiration for designers and developers.",
+        "Description": "Design inspiration gallery showcasing a curated selection of creative and visually unique website examples.",
         "Favicon Filename": "httpster.net.png",
         "Tags": "",
         "Priority": ""
@@ -220,7 +236,7 @@
       {
         "Title": "Landbook",
         "URL": "https://land-book.com/",
-        "Description": "Web design portfolio gallery featuring a collection of landing pages for reference and creative inspiration.",
+        "Description": "Design resource gallery that collects and categorizes diverse website templates for creative inspiration.",
         "Favicon Filename": "land-book.com.png",
         "Tags": "",
         "Priority": ""
@@ -228,7 +244,7 @@
       {
         "Title": "RDLP (LP制作に特化)",
         "URL": "https://rdlp.jp/",
-        "Description": "Web-based service that provides landing page design and development resources for marketers and business owners.",
+        "Description": "Service provider specializing in the design and production of landing pages for commercial products.",
         "Favicon Filename": "rdlp.jp.png",
         "Tags": "",
         "Priority": ""
@@ -236,7 +252,7 @@
       {
         "Title": "Webframe",
         "URL": "https://webframe.xyz/",
-        "Description": "Curated database that showcases high-quality web design examples categorized by industry and style for inspiration.",
+        "Description": "Digital library showcasing user interface screenshots from various web applications to assist designers.",
         "Favicon Filename": "webframe.xyz.png",
         "Tags": "",
         "Priority": ""
@@ -244,7 +260,7 @@
       {
         "Title": "Awwwards",
         "URL": "https://www.awwwards.com/websites/",
-        "Description": "Professional design competition platform that evaluates and displays websites based on creativity, design, and development.",
+        "Description": "Professional award platform that evaluates and highlights exceptional web design and development projects worldwide.",
         "Favicon Filename": "awwwards.com.png",
         "Tags": "",
         "Priority": ""
@@ -252,7 +268,7 @@
       {
         "Title": "Curated.Design",
         "URL": "https://www.curated.design/",
-        "Description": "Design gallery that aggregates high-quality web design examples for developers and designers seeking creative reference.",
+        "Description": "Curated website collection that displays design patterns and selected layouts for web designers and developers.",
         "Favicon Filename": "curated.design.png",
         "Tags": "",
         "Priority": ""
@@ -260,7 +276,7 @@
       {
         "Title": "LandingFolio",
         "URL": "https://www.landingfolio.com/",
-        "Description": "Resource library that hosts a curated collection of landing page templates and design patterns for marketers.",
+        "Description": "Inspiration gallery that provides a collection of landing page designs for web design professionals.",
         "Favicon Filename": "landingfolio.com.png",
         "Tags": "",
         "Priority": ""
@@ -268,7 +284,7 @@
       {
         "Title": "Lapa Ninja",
         "URL": "https://www.lapa.ninja/",
-        "Description": "Design showcase platform that features landing page examples organized by industry and style for web creators.",
+        "Description": "Design resource that archives thousands of landing page examples from various industries for visual reference.",
         "Favicon Filename": "lapa.ninja.png",
         "Tags": "",
         "Priority": ""
@@ -276,7 +292,7 @@
       {
         "Title": "Pinterest",
         "URL": "https://www.pinterest.com/",
-        "Description": "Visual discovery engine that allows users to find and save ideas for various projects and interests.",
+        "Description": "Visual discovery platform that allows users to save and organize images for various personal projects.",
         "Favicon Filename": "pinterest.com.png",
         "Tags": "",
         "Priority": ""
@@ -284,7 +300,7 @@
       {
         "Title": "Yanko Design",
         "URL": "https://www.yankodesign.com/",
-        "Description": "Online magazine that covers modern industrial design, innovative product concepts, and technology news.",
+        "Description": "Online magazine that publishes articles and reviews focused on international product and industrial design projects.",
         "Favicon Filename": "yankodesign.com.png",
         "Tags": "",
         "Priority": ""
@@ -294,7 +310,7 @@
       {
         "Title": "Darebee",
         "URL": "https://darebee.com/",
-        "Description": "Non-profit fitness resource providing free, ad-free workout programs, nutritional guides, and physical training exercises.",
+        "Description": "Fitness resource that offers free exercise programs, home workouts, and training guides for various goals.",
         "Favicon Filename": "darebee.com.png",
         "Tags": "",
         "Priority": ""
@@ -302,7 +318,7 @@
       {
         "Title": "SquatWolf Calisthenics Beginner",
         "URL": "https://squatwolf.com/blogs/fitness/calisthenics-beginners",
-        "Description": "Informational blog post that details fundamental calisthenics exercises and training routines for those new to fitness.",
+        "Description": "Training guide that outlines a thirty-day calisthenics plan featuring drills and mobility tips for beginners.",
         "Favicon Filename": "squatwolf.com.png",
         "Tags": "",
         "Priority": ""
@@ -310,7 +326,7 @@
       {
         "Title": "Boostcamp App",
         "URL": "https://www.boostcamp.app/",
-        "Description": "Mobile fitness application that offers structured lifting programs and workout tracking tools for weight training enthusiasts.",
+        "Description": "Mobile application that provides coach-designed fitness programs and progress tracking tools for all skill levels.",
         "Favicon Filename": "boostcamp.app.png",
         "Tags": "",
         "Priority": ""
@@ -318,7 +334,7 @@
       {
         "Title": "Muscle & Strength Workout Routines",
         "URL": "https://www.muscleandstrength.com/workout-routines",
-        "Description": "Database containing various workout routines and training plans for individuals focusing on muscle building and strength.",
+        "Description": "Fitness portal that provides a collection of workout routines and training plans for weightlifters.",
         "Favicon Filename": "muscleandstrength.com.png",
         "Tags": "",
         "Priority": ""
@@ -326,7 +342,7 @@
       {
         "Title": "Reddit Calisthenics 3-Month Program",
         "URL": "https://www.reddit.com/r/CalisthenicsCulture/comments/1e5l3p4/heres_a_threemonth_calisthenics_training_program/",
-        "Description": "Public discussion thread containing a structured, three-month bodyweight training program for fitness enthusiasts.",
+        "Description": "Community forum post that outlines a three-month structured calisthenics training routine for bodyweight exercise.",
         "Favicon Filename": "reddit.com.png",
         "Tags": "",
         "Priority": ""
@@ -334,7 +350,7 @@
       {
         "Title": "Reddit Yoga Resources",
         "URL": "https://www.reddit.com/r/yoga/comments/1hp4bgh/new_to_yoga_ryoga_looking_for_resources_or_2025/",
-        "Description": "Community forum post aggregating various beginner-friendly yoga resources, tutorials, and practice guides for new practitioners.",
+        "Description": "Community discussion thread that collects various yoga learning resources and guides for new practitioners.",
         "Favicon Filename": "reddit.com.png",
         "Tags": "",
         "Priority": ""
@@ -342,7 +358,7 @@
       {
         "Title": "WebMD 7-Minute Workout",
         "URL": "https://www.webmd.com/fitness-exercise/ss/the-7-minute-workout-slideshow",
-        "Description": "Informational slideshow that outlines a series of high-intensity exercises designed to be completed in seven minutes.",
+        "Description": "Educational slideshow that explains a seven-minute exercise sequence designed for general fitness and health maintenance.",
         "Favicon Filename": "webmd.com.png",
         "Tags": "",
         "Priority": ""
@@ -350,17 +366,17 @@
       {
         "Title": "7-Minute Workout YouTube",
         "URL": "https://www.youtube.com/watch?v=ECxYJcnvyMw",
-        "Description": "Instructional video that demonstrates a seven-minute bodyweight circuit workout for users with limited time.",
+        "Description": "Instructional video that demonstrates a seven-minute exercise routine suitable for a quick home workout.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
       }
     ],
-    "💻 Learn Web Dev / Programming": [
+    "💻 Learn Web Dev": [
       {
         "Title": "CS50 Python",
         "URL": "https://cs50.harvard.edu/python/2022/",
-        "Description": "Academic course providing an introduction to computer science and programming in Python for various students.",
+        "Description": "Educational course from Harvard University that teaches the fundamentals of programming using the Python language.",
         "Favicon Filename": "cs50.harvard.edu.png",
         "Tags": "",
         "Priority": ""
@@ -368,7 +384,7 @@
       {
         "Title": "Exercism",
         "URL": "https://exercism.org/",
-        "Description": "Learning platform that offers coding exercises and mentor-based feedback across numerous programming languages.",
+        "Description": "Online coding platform that provides programming exercises in multiple languages with free peer-based mentoring support.",
         "Favicon Filename": "exercism.org.png",
         "Tags": "",
         "Priority": ""
@@ -376,7 +392,7 @@
       {
         "Title": "Codrops",
         "URL": "https://tympanus.net/codrops/",
-        "Description": "Web development publication providing tutorials, articles, and code snippets for modern web design and front-end development.",
+        "Description": "Educational platform for web design and frontend development tutorials, creative coding demos, and industry resources.",
         "Favicon Filename": "tympanus.net.png",
         "Tags": "",
         "Priority": ""
@@ -384,7 +400,7 @@
       {
         "Title": "30 Seconds of Code",
         "URL": "https://www.30secondsofcode.org/",
-        "Description": "Programming resource providing short, reusable code snippets for various languages and common development tasks.",
+        "Description": "Code repository featuring short, practical programming articles and snippets for developers looking to enhance skills.",
         "Favicon Filename": "30secondsofcode.org.png",
         "Tags": "",
         "Priority": ""
@@ -392,7 +408,7 @@
       {
         "Title": "Frontend Mentor",
         "URL": "https://www.frontendmentor.io/",
-        "Description": "Educational platform that provides professional web design challenges for front-end developers to improve their coding skills.",
+        "Description": "Frontend development platform providing professional Figma designs for practicing HTML, CSS, JavaScript, and various frameworks.",
         "Favicon Filename": "frontendmentor.io.png",
         "Tags": "",
         "Priority": ""
@@ -400,7 +416,7 @@
       {
         "Title": "The Odin Project",
         "URL": "https://www.theodinproject.com/",
-        "Description": "Open-source curriculum that offers a full-stack web development education path through curated web resources and projects.",
+        "Description": "Open-source curriculum providing a comprehensive, project-based pathway for learning full-stack web development.",
         "Favicon Filename": "theodinproject.com.png",
         "Tags": "",
         "Priority": ""
@@ -408,7 +424,7 @@
       {
         "Title": "Udemy",
         "URL": "https://www.udemy.com/",
-        "Description": "Online learning marketplace that hosts thousands of video-based courses on various professional and technical skill topics.",
+        "Description": "Online learning marketplace offering a wide range of video courses across numerous professional and personal subjects.",
         "Favicon Filename": "udemy.com.png",
         "Tags": "",
         "Priority": ""
@@ -418,7 +434,7 @@
       {
         "Title": "daily.dev",
         "URL": "https://app.daily.dev/",
-        "Description": "Content aggregator that curates news and articles specifically for software developers and technology professionals.",
+        "Description": "News aggregator for developers that curates and delivers programming content from various technology publications.",
         "Favicon Filename": "app.daily.dev.png",
         "Tags": "",
         "Priority": ""
@@ -426,7 +442,7 @@
       {
         "Title": "CS50's Intro to Programming with Python",
         "URL": "https://cs50.harvard.edu/python/2022/",
-        "Description": "Educational course by Harvard University that teaches the fundamentals of Python programming to beginners.",
+        "Description": "Academic course from Harvard University providing an introductory overview of programming concepts using the Python language.",
         "Favicon Filename": "cs50.harvard.edu.png",
         "Tags": "",
         "Priority": ""
@@ -434,7 +450,7 @@
       {
         "Title": "Exercism",
         "URL": "https://exercism.org/dashboard",
-        "Description": "Online platform that provides coding exercises and peer-reviewed feedback to help users learn programming languages.",
+        "Description": "Coding education platform offering exercises and expert mentoring across more than fifty different programming languages.",
         "Favicon Filename": "exercism.org.png",
         "Tags": "",
         "Priority": ""
@@ -442,7 +458,7 @@
       {
         "Title": "The Odin Project",
         "URL": "https://www.theodinproject.com/",
-        "Description": "Open-source curriculum that provides a full-stack web development learning path for aspiring software developers.",
+        "Description": "Open-source curriculum providing a comprehensive, project-based pathway for learning full-stack web development.",
         "Favicon Filename": "theodinproject.com.png",
         "Tags": "",
         "Priority": ""
@@ -450,7 +466,7 @@
       {
         "Title": "Udemy",
         "URL": "https://www.udemy.com/",
-        "Description": "E-learning marketplace that provides a vast catalog of online courses across various professional and personal topics.",
+        "Description": "Online learning marketplace offering a wide range of video courses across numerous professional and personal subjects.",
         "Favicon Filename": "udemy.com.png",
         "Tags": "",
         "Priority": ""
@@ -460,7 +476,7 @@
       {
         "Title": "The Storygraph",
         "URL": "https://app.thestorygraph.com/",
-        "Description": "Reading tracker that allows users to log books, generate personalized statistics, and discover new literature.",
+        "Description": "Reading tracking tool that allows users to catalog books, view statistics, and discover new reading recommendations.",
         "Favicon Filename": "app.thestorygraph.com.png",
         "Tags": "",
         "Priority": ""
@@ -468,7 +484,7 @@
       {
         "Title": "Letterboxd",
         "URL": "https://letterboxd.com/",
-        "Description": "Social networking platform for film enthusiasts to log, review, and organize their personal movie watchlists.",
+        "Description": "Social networking site for film fans to catalog movies, write reviews, and share watchlists.",
         "Favicon Filename": "letterboxd.com.png",
         "Tags": "",
         "Priority": ""
@@ -476,7 +492,7 @@
       {
         "Title": "MyAnimeList",
         "URL": "https://myanimelist.net/",
-        "Description": "Online database that enables users to track anime and manga consumption through lists and community forums.",
+        "Description": "Community-driven database for tracking anime and manga consumption, writing reviews, and participating in forums.",
         "Favicon Filename": "myanimelist.net.png",
         "Tags": "",
         "Priority": ""
@@ -484,7 +500,7 @@
       {
         "Title": "MyDramaList",
         "URL": "https://mydramalist.com/",
-        "Description": "Community database that allows users to track, rate, and discuss Asian television dramas and films.",
+        "Description": "Database platform for tracking Asian drama series and films while interacting with an online community.",
         "Favicon Filename": "mydramalist.com.png",
         "Tags": "",
         "Priority": ""
@@ -502,7 +518,7 @@
       {
         "Title": "daily.dev App",
         "URL": "https://app.daily.dev/",
-        "Description": "News aggregator that delivers a personalized feed of articles and resources for software developers and engineers.",
+        "Description": "Web-based platform that aggregates programming news and technical articles for software developers to read daily.",
         "Favicon Filename": "app.daily.dev.png",
         "Tags": "",
         "Priority": ""
@@ -510,7 +526,7 @@
       {
         "Title": "Panda (app.usepanda)",
         "URL": "https://app.usepanda.com/#/",
-        "Description": "Web-based news reader that aggregates content from various design, technology, and development websites into one interface.",
+        "Description": "Browser-based dashboard that aggregates design, technology, and coding news feeds from multiple curated industry sources.",
         "Favicon Filename": "app.usepanda.com.png",
         "Tags": "",
         "Priority": ""
@@ -518,7 +534,7 @@
       {
         "Title": "The Brutalist Report",
         "URL": "https://brutalist.report/",
-        "Description": "News aggregator that presents headlines from major global sources using a minimalist, text-based visual design.",
+        "Description": "News aggregator that presents headlines from major global outlets using a minimalist, text-only design aesthetic.",
         "Favicon Filename": "brutalist.report.png",
         "Tags": "",
         "Priority": ""
@@ -526,7 +542,7 @@
       {
         "Title": "Hackaday",
         "URL": "https://hackaday.com/",
-        "Description": "Technology blog that documents hardware hacks, engineering projects, and innovative DIY electronics designs from the community.",
+        "Description": "Online publication that covers engineering projects, DIY hardware hacks, and technological developments for curious engineers.",
         "Favicon Filename": "hackaday.com.png",
         "Tags": "",
         "Priority": ""
@@ -534,7 +550,7 @@
       {
         "Title": "InboxReads",
         "URL": "https://inboxreads.co/",
-        "Description": "Directory service that helps users discover and subscribe to various email newsletters across different interest categories.",
+        "Description": "Discovery platform that helps users find and subscribe to newsletters across a wide variety of topics.",
         "Favicon Filename": "inboxreads.co.png",
         "Tags": "",
         "Priority": ""
@@ -542,7 +558,7 @@
       {
         "Title": "Hacker News",
         "URL": "https://news.ycombinator.com/",
-        "Description": "Social news website that focuses on computer science and entrepreneurship through community-submitted links and threaded discussions.",
+        "Description": "Community-driven social news website that focuses on computer science, entrepreneurship, and intellectual technology topics.",
         "Favicon Filename": "news.ycombinator.com.png",
         "Tags": "",
         "Priority": ""
@@ -550,7 +566,7 @@
       {
         "Title": "Readsom",
         "URL": "https://readsom.com/",
-        "Description": "Content platform that provides summarized versions of long-form articles to help users read through information faster.",
+        "Description": "Online tool that provides summarized versions of articles and news stories for faster reading and consumption.",
         "Favicon Filename": "readsom.com.png",
         "Tags": "",
         "Priority": ""
@@ -558,7 +574,7 @@
       {
         "Title": "TLDR Tech",
         "URL": "https://tldr.tech/",
-        "Description": "Email newsletter that delivers a daily summary of the most significant technology, science, and coding news.",
+        "Description": "Curated email newsletter that delivers daily summaries of significant technology news, software updates, and industry trends.",
         "Favicon Filename": "tldr.tech.png",
         "Tags": "",
         "Priority": ""
@@ -566,7 +582,7 @@
       {
         "Title": "News Minimalist",
         "URL": "https://www.newsminimalist.com/",
-        "Description": "News aggregation service that curates and summarizes daily top headlines to provide a concise overview.",
+        "Description": "News aggregation service that provides a single daily report on important global events using minimal formatting.",
         "Favicon Filename": "newsminimalist.com.png",
         "Tags": "",
         "Priority": ""
@@ -576,7 +592,7 @@
       {
         "Title": "AnimeKai",
         "URL": "https://animekai.to/home",
-        "Description": "Anime streaming site that hosts a wide variety of subbed and dubbed content in high-definition.",
+        "Description": "Streaming platform that provides access to a large library of anime series and films for viewers.",
         "Favicon Filename": "animekai.to.png",
         "Tags": "",
         "Priority": 0
@@ -584,7 +600,7 @@
       {
         "Title": "Holodex",
         "URL": "https://holodex.net/",
-        "Description": "Video discovery platform that aggregates and organizes live streams and archives from VTuber content creators.",
+        "Description": "Data tracking platform that monitors and organizes live streams and clips from VTuber creators and agencies.",
         "Favicon Filename": "holodex.net.png",
         "Tags": "",
         "Priority": 0
@@ -592,7 +608,7 @@
       {
         "Title": "HydraHD",
         "URL": "https://hydrahd.com/",
-        "Description": "Web-based media player that offers high-definition streaming for a variety of movies and television series.",
+        "Description": "Streaming website that provides on-demand access to a variety of high-definition movies and television content.",
         "Favicon Filename": "hydrahd.com.png",
         "Tags": "",
         "Priority": 0
@@ -600,7 +616,7 @@
       {
         "Title": "Asiaflix",
         "URL": "https://asiaflix.net/",
-        "Description": "Streaming service that offers a collection of Asian dramas and movies with optional English subtitles.",
+        "Description": "Video streaming website that offers a collection of films and television shows from across Asia.",
         "Favicon Filename": "asiaflix.net.png",
         "Tags": "",
         "Priority": ""
@@ -608,7 +624,7 @@
       {
         "Title": "/vt/ News",
         "URL": "https://vt.rita.moe/news.xml",
-        "Description": "News feed aggregator that displays current updates and discussions related to the virtual YouTuber community.",
+        "Description": "RSS feed aggregator that publishes news and updates related to the virtual YouTuber subculture and community.",
         "Favicon Filename": "vt.rita.moe.png",
         "Tags": "",
         "Priority": ""
@@ -616,7 +632,7 @@
       {
         "Title": "Download New Movies",
         "URL": "https://watchsomuch.to/Movies/",
-        "Description": "Digital platform that provides links and information for downloading and watching a library of movies.",
+        "Description": "Digital platform that allows users to browse and download a wide selection of movies for viewing.",
         "Favicon Filename": "watchsomuch.to.png",
         "Tags": "",
         "Priority": ""
@@ -624,7 +640,7 @@
       {
         "Title": "Reddit",
         "URL": "https://www.reddit.com/",
-        "Description": "Social news aggregation platform organized into interest-based communities where users vote on shared content.",
+        "Description": "Social news aggregation platform that hosts community-driven discussions and content sharing across numerous interest-based forums.",
         "Favicon Filename": "reddit.com.png",
         "Tags": "",
         "Priority": ""
@@ -632,7 +648,7 @@
       {
         "Title": "Twitch",
         "URL": "https://www.twitch.tv/",
-        "Description": "Live streaming platform that enables users to broadcast and view video content across various interests.",
+        "Description": "Interactive livestreaming service that hosts live content spanning gaming, music, sports, and general entertainment categories.",
         "Favicon Filename": "twitch.tv.png",
         "Tags": "",
         "Priority": ""
@@ -642,7 +658,7 @@
       {
         "Title": "End of Life Date",
         "URL": "https://endoflife.date/",
-        "Description": "Reference website that aggregates support timelines and end-of-life dates for various software products and operating systems.",
+        "Description": "Information resource that aggregates end-of-life, support schedules, and release timelines for hundreds of software products.",
         "Favicon Filename": "endoflife.date.png",
         "Tags": "",
         "Priority": ""
@@ -650,7 +666,7 @@
       {
         "Title": "Filmot",
         "URL": "https://filmot.com/",
-        "Description": "Search engine that allows users to perform full-text searches across the captions and transcripts of YouTube videos.",
+        "Description": "Search engine for YouTube subtitles that allows users to find specific moments within video transcripts.",
         "Favicon Filename": "filmot.com.png",
         "Tags": "",
         "Priority": ""
@@ -658,7 +674,7 @@
       {
         "Title": "Playlists.at",
         "URL": "https://playlists.at/",
-        "Description": "Utility tool that helps users discover and analyze music playlists from various streaming platforms and genres.",
+        "Description": "YouTube management tool that facilitates creating, searching, and organizing playlists using drag-and-drop and AI features.",
         "Favicon Filename": "playlists.at.png",
         "Tags": "",
         "Priority": ""
@@ -666,7 +682,7 @@
       {
         "Title": "Winstall",
         "URL": "https://winstall.app/",
-        "Description": "Package management tool that enables users to create and install customized collections of Windows applications easily.",
+        "Description": "Web-based utility that enables bulk installation of Windows applications via the official Windows Package Manager.",
         "Favicon Filename": "winstall.app.png",
         "Tags": "",
         "Priority": ""
@@ -674,7 +690,7 @@
       {
         "Title": "Reddit — InternetIsBeautiful",
         "URL": "https://www.reddit.com/r/InternetIsBeautiful/",
-        "Description": "Reddit community dedicated to sharing unique, useful, or interesting websites discovered across the internet by users.",
+        "Description": "Online forum dedicated to sharing and discussing interesting, useful, or unique websites found across the internet.",
         "Favicon Filename": "reddit.com.png",
         "Tags": "",
         "Priority": ""
@@ -682,82 +698,8 @@
       {
         "Title": "Reddit — SideProject",
         "URL": "https://www.reddit.com/r/SideProject/",
-        "Description": "Online forum where developers and creators share their side projects to receive feedback from the community.",
+        "Description": "Community forum for developers to showcase personal projects, gather user feedback, and discuss technical progress.",
         "Favicon Filename": "reddit.com.png",
-        "Tags": "",
-        "Priority": ""
-      }
-    ],
-    "🔄 Frequently Used": [
-      {
-        "Title": "Duck.ai",
-        "URL": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
-        "Description": "Artificial intelligence chatbot that allows users to interact with various large language models via DuckDuckGo search.",
-        "Favicon Filename": "duckduckgo.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Gemini",
-        "URL": "https://gemini.google.com/app",
-        "Description": "Generative artificial intelligence service that assists users with writing, analysis, coding, and creative tasks through conversation.",
-        "Favicon Filename": "gemini.google.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "HiAnime",
-        "URL": "https://hianime.to/",
-        "Description": "Streaming website that hosts a library of anime content for viewing and tracking shows.",
-        "Favicon Filename": "hianime.to.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "HoloDex",
-        "URL": "https://holodex.net/",
-        "Description": "Video platform that aggregates and organizes live and archived content from VTuber channels.",
-        "Favicon Filename": "holodex.net.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "NotebookLM",
-        "URL": "https://notebooklm.google/",
-        "Description": "Research assistant tool that uses artificial intelligence to analyze uploaded documents and summarize information.",
-        "Favicon Filename": "notebooklm.google.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Perplexity",
-        "URL": "https://www.perplexity.ai/",
-        "Description": "Search engine that provides direct answers to queries using real-time web sources and AI.",
-        "Favicon Filename": "perplexity.ai.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Reddit",
-        "URL": "https://www.reddit.com/",
-        "Description": "Social media platform that hosts community-based discussion forums organized by specific topics and interests.",
-        "Favicon Filename": "reddit.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Twitch",
-        "URL": "https://www.twitch.tv/",
-        "Description": "Live streaming platform where creators broadcast video content for interactive real-time audience engagement.",
-        "Favicon Filename": "twitch.tv.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Youtube",
-        "URL": "https://www.youtube.com/",
-        "Description": "Video hosting platform that allows users to upload, view, share, and comment on video content.",
-        "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
       }
@@ -766,7 +708,7 @@
       {
         "Title": "Cybernews Personal Data Leak Checker",
         "URL": "https://cybernews.com/personal-data-leak-check/",
-        "Description": "Security utility that checks if a user's email address appears in known data leaks.",
+        "Description": "Security tool that scans for personal information leaked in public data breaches and security incidents.",
         "Favicon Filename": "cybernews.com.png",
         "Tags": "",
         "Priority": ""
@@ -774,7 +716,7 @@
       {
         "Title": "Have I Been Pwned",
         "URL": "https://haveibeenpwned.com/",
-        "Description": "Security service that tracks and notifies users about compromised accounts in reported data breaches.",
+        "Description": "Verification service that allows users to check if their email addresses have appeared in data breaches.",
         "Favicon Filename": "haveibeenpwned.com.png",
         "Tags": "",
         "Priority": ""
@@ -782,7 +724,7 @@
       {
         "Title": "Metadefender OPSWAT",
         "URL": "https://metadefender.opswat.com/",
-        "Description": "Security platform that scans files and URLs using multiple antivirus engines to detect potential threats.",
+        "Description": "Security platform that scans files, URLs, and IP addresses for malware using multiple antivirus engines.",
         "Favicon Filename": "metadefender.opswat.com.png",
         "Tags": "",
         "Priority": ""
@@ -790,7 +732,7 @@
       {
         "Title": "Kaspersky Threat Intelligence Portal (OpenTIP)",
         "URL": "https://opentip.kaspersky.com/",
-        "Description": "Threat intelligence portal that allows users to investigate malicious files, IP addresses, and URLs.",
+        "Description": "Threat intelligence portal that enables users to scan files, domains, and IP addresses for malicious activity.",
         "Favicon Filename": "opentip.kaspersky.com.png",
         "Tags": "",
         "Priority": ""
@@ -798,7 +740,7 @@
       {
         "Title": "Jotti's Malware Scan",
         "URL": "https://virusscan.jotti.org/",
-        "Description": "Malware scanning service that enables users to upload files to be analyzed by several antivirus programs.",
+        "Description": "Online malware scanner that analyzes uploaded files against various antivirus engines to detect potential threats.",
         "Favicon Filename": "virusscan.jotti.org.png",
         "Tags": "",
         "Priority": ""
@@ -806,7 +748,7 @@
       {
         "Title": "Hybrid Analysis",
         "URL": "https://www.hybrid-analysis.com/",
-        "Description": "Analysis tool that performs deep behavioral inspection of suspicious files to identify potential malware threats.",
+        "Description": "Malware analysis service that submits suspicious files for evaluation using sandbox and specialized security technologies.",
         "Favicon Filename": "hybrid-analysis.com.png",
         "Tags": "",
         "Priority": ""
@@ -814,7 +756,7 @@
       {
         "Title": "VirScan",
         "URL": "https://www.virscan.org/",
-        "Description": "Online malware scanner that allows users to check files against a database of antivirus engines.",
+        "Description": "File scanning service that analyzes uploaded documents and software for viruses using multiple security tools.",
         "Favicon Filename": "virscan.org.png",
         "Tags": "",
         "Priority": ""
@@ -822,7 +764,7 @@
       {
         "Title": "VirusTotal",
         "URL": "https://www.virustotal.com/gui/home/upload",
-        "Description": "Security service that scans uploaded files and URLs for viruses using various security vendor engines.",
+        "Description": "Online service that analyzes suspicious files, domains, and URLs to detect malware and malicious content.",
         "Favicon Filename": "virustotal.com.png",
         "Tags": "",
         "Priority": ""
@@ -832,7 +774,7 @@
       {
         "Title": "Designer Daily Report",
         "URL": "https://app.designerdailyreport.com/",
-        "Description": "Curation tool that provides designers with daily updates, industry news, and relevant professional resources.",
+        "Description": "Web-based tool that provides daily updates and curated content relevant to professional designers and creatives.",
         "Favicon Filename": "app.designerdailyreport.com.png",
         "Tags": "",
         "Priority": ""
@@ -840,7 +782,7 @@
       {
         "Title": "Panda",
         "URL": "https://app.usepanda.com/#/",
-        "Description": "Design news aggregator that brings together creative content from various blogs and design industry sources.",
+        "Description": "Content aggregator providing daily news and design inspiration for developers, entrepreneurs, and creative professionals.",
         "Favicon Filename": "app.usepanda.com.png",
         "Tags": "",
         "Priority": ""
@@ -848,7 +790,7 @@
       {
         "Title": "Curated Inspiration",
         "URL": "https://craftwork.design/curated/websites/",
-        "Description": "Design resource gallery that provides a curated collection of web design examples for professional inspiration.",
+        "Description": "Inspiration library that features a collection of selected websites and various visual design patterns.",
         "Favicon Filename": "craftwork.design.png",
         "Tags": "",
         "Priority": ""
@@ -856,7 +798,7 @@
       {
         "Title": "LandBook",
         "URL": "https://land-book.com/",
-        "Description": "Web design directory that curates a collection of high-quality landing page examples for designers.",
+        "Description": "Web gallery that showcases a collection of landing page designs and website layouts for inspiration.",
         "Favicon Filename": "land-book.com.png",
         "Tags": "",
         "Priority": ""
@@ -864,7 +806,7 @@
       {
         "Title": "Craiyon Background Remover",
         "URL": "https://www.craiyon.com/background-remover",
-        "Description": "Browser-based tool that utilizes artificial intelligence to automatically remove backgrounds from uploaded images.",
+        "Description": "Image editing tool that uses automated processing to remove backgrounds from uploaded photographs or graphics.",
         "Favicon Filename": "craiyon.com.png",
         "Tags": "",
         "Priority": ""
@@ -872,7 +814,7 @@
       {
         "Title": "Relume",
         "URL": "https://www.relume.io/",
-        "Description": "Web development platform that provides AI-powered tools for building website wireframes and sitemaps.",
+        "Description": "AI-powered platform that generates website sitemaps and wireframes for designers and marketing professionals.",
         "Favicon Filename": "relume.io.png",
         "Tags": "",
         "Priority": ""
@@ -880,7 +822,7 @@
       {
         "Title": "UX Tools",
         "URL": "https://www.uxtools.co/",
-        "Description": "Resource hub that provides documentation, articles, and comparative data on various user experience software.",
+        "Description": "Educational resource that provides data-backed design insights, tool comparisons, and workflow analysis for designers.",
         "Favicon Filename": "uxtools.co.png",
         "Tags": "",
         "Priority": ""
@@ -890,7 +832,7 @@
       {
         "Title": "Japanese Guide - TheMoeWay",
         "URL": "https://learnjapanese.moe/guide/",
-        "Description": "Comprehensive guide that outlines effective methods and tools for learning the Japanese language.",
+        "Description": "Comprehensive instructional guide for self-taught Japanese language learners seeking to reach proficiency through immersive methods.",
         "Favicon Filename": "learnjapanese.moe.png",
         "Tags": "🗝Guides & Resources",
         "Priority": 0
@@ -898,7 +840,7 @@
       {
         "Title": "All Japanese All The Time | AJATT",
         "URL": "https://tatsumoto.neocities.org/blog/",
-        "Description": "Blog series documenting immersive strategies for learning Japanese through constant exposure to native content.",
+        "Description": "Instructional blog detailing methodologies and strategies for achieving native-level fluency in the Japanese language.",
         "Favicon Filename": "tatsumoto.neocities.org.png",
         "Tags": "🗝Guides & Resources",
         "Priority": 0
@@ -906,7 +848,7 @@
       {
         "Title": "(=^ᆺ^)ﾉ日本語",
         "URL": "https://djtguide.github.io/",
-        "Description": "Language learning guide that offers advice on tools and techniques for mastering Japanese independently.",
+        "Description": "Comprehensive guide for self-study and learning the Japanese language through online resources and tools.",
         "Favicon Filename": "djtguide.github.io.png",
         "Tags": "🗝Guides & Resources",
         "Priority": 1
@@ -914,7 +856,7 @@
       {
         "Title": "Texthooker",
         "URL": "https://learnjapanese.moe/texthooker.html",
-        "Description": "Study tool that captures text from web browsers to facilitate lookups in Japanese dictionaries.",
+        "Description": "Browser-based utility that extracts text from applications or browser windows for translation during Japanese study.",
         "Favicon Filename": "learnjapanese.moe.png",
         "Tags": "🛠️Tools",
         "Priority": 2
@@ -922,7 +864,7 @@
       {
         "Title": "jp-mining-note",
         "URL": "https://aquafina-water-bottle.github.io/jp-mining-note/",
-        "Description": "Anki-based study guide designed to assist users in mining vocabulary from Japanese media content.",
+        "Description": "Technical documentation and guide for the jp-mining-note software project used in Japanese language learning.",
         "Favicon Filename": "aquafina-water-bottle.github.io.png",
         "Tags": "🗝Guides & Resources",
         "Priority": ""
@@ -930,7 +872,7 @@
       {
         "Title": "Bilingual Manga",
         "URL": "https://bilingualmanga.org/",
-        "Description": "Educational website that hosts manga chapters with side-by-side Japanese and English language translations.",
+        "Description": "Educational website that provides bilingual manga text to help users learn the Japanese language.",
         "Favicon Filename": "bilingualmanga.org.png",
         "Tags": "🍤漫画",
         "Priority": ""
@@ -938,7 +880,7 @@
       {
         "Title": "全ｅｐｕｂ",
         "URL": "https://boroboro.neocities.org/listfullepub",
-        "Description": "Web page providing a curated list of downloadable EPUB files for various Japanese books.",
+        "Description": "Personal collection of electronic books in ePub format hosted on the Neocities platform.",
         "Favicon Filename": "boroboro.neocities.org.png",
         "Tags": "📘青空からの本",
         "Priority": ""
@@ -946,7 +888,7 @@
       {
         "Title": "Aozora Links",
         "URL": "https://core6000.neocities.org/aozora/",
-        "Description": "Web resource providing organized links and guides for accessing Aozora Bunko literature collections.",
+        "Description": "Curated directory of links to literature from the Aozora Bunko digital library collection.",
         "Favicon Filename": "",
         "Tags": "📘青空からの本",
         "Priority": ""
@@ -954,7 +896,7 @@
       {
         "Title": "DoJg",
         "URL": "https://core6000.neocities.org/dojg/",
-        "Description": "Web-based tool that provides offline reading lists for Japanese manga and literature titles.",
+        "Description": "Reference page providing information about the Dictionary of Japanese Grammar series of textbooks.",
         "Favicon Filename": "",
         "Tags": "🧠文法",
         "Priority": ""
@@ -962,7 +904,7 @@
       {
         "Title": "DoJG main menu",
         "URL": "https://djtguide.github.io/grammar/dojgmain.html",
-        "Description": "Reference index for the Dictionary of Japanese Grammar series, offering explanations for various grammatical structures.",
+        "Description": "Reference menu providing organized access to entries from the Dictionary of Japanese Grammar.",
         "Favicon Filename": "djtguide.github.io.png",
         "Tags": "🧠文法",
         "Priority": ""
@@ -970,7 +912,7 @@
       {
         "Title": "どんなときどう使う main",
         "URL": "https://djtguide.github.io/grammar/donnatoki.html",
-        "Description": "Detailed reference guide for understanding the nuances and usage contexts of various Japanese grammatical points.",
+        "Description": "Study guide offering explanations and usage examples for Japanese grammar points and sentence patterns.",
         "Favicon Filename": "djtguide.github.io.png",
         "Tags": "🧠文法",
         "Priority": ""
@@ -978,7 +920,7 @@
       {
         "Title": "Handbook of Japanese Grammar Reference",
         "URL": "https://djtguide.github.io/grammar/hjg.html",
-        "Description": "Compilation of Japanese grammar rules and structures organized for systematic study and reference.",
+        "Description": "Grammar reference page containing structured explanations of Japanese language rules and syntax.",
         "Favicon Filename": "djtguide.github.io.png",
         "Tags": "🧠文法",
         "Priority": ""
@@ -986,7 +928,7 @@
       {
         "Title": "文型一覧表",
         "URL": "https://djtguide.github.io/grammar/masterreference.html",
-        "Description": "Reference guide providing a detailed index of Japanese sentence patterns and their grammatical usage.",
+        "Description": "Master index of Japanese grammar points categorized for reference and systematic language study.",
         "Favicon Filename": "djtguide.github.io.png",
         "Tags": "🧠文法",
         "Priority": ""
@@ -994,7 +936,7 @@
       {
         "Title": "visualizing japanese grammar",
         "URL": "https://djtguide.github.io/grammar/vjg.html",
-        "Description": "Visual guide for learning Japanese grammar through diagrams and structural representations of sentence patterns.",
+        "Description": "Reference tool that illustrates and explains Japanese grammar concepts through visual examples.",
         "Favicon Filename": "djtguide.github.io.png",
         "Tags": "🧠文法",
         "Priority": ""
@@ -1002,7 +944,7 @@
       {
         "Title": "IMABI",
         "URL": "https://imabi.org/",
-        "Description": "Educational website providing a comprehensive curriculum for learning Japanese grammar and language structures.",
+        "Description": "Comprehensive educational platform providing structured lessons and content for learning the Japanese language.",
         "Favicon Filename": "imabi.org.png",
         "Tags": "🧠文法",
         "Priority": ""
@@ -1010,7 +952,7 @@
       {
         "Title": "カクヨム",
         "URL": "https://kakuyomu.jp/",
-        "Description": "Writing platform that allows users to publish, read, and share original Japanese web novels.",
+        "Description": "Online publishing platform by KADOKAWA that allows users to write, read, and share web novels.",
         "Favicon Filename": "kakuyomu.jp.png",
         "Tags": "📘青空からの本",
         "Priority": ""
@@ -1018,7 +960,7 @@
       {
         "Title": "The Resources",
         "URL": "https://kuzuri.neocities.org/resources",
-        "Description": "Personal collection of links and resources compiled to support independent Japanese language learning.",
+        "Description": "Collection of curated digital resources and links for language learning and general internet research purposes.",
         "Favicon Filename": "",
         "Tags": "🗝Guides & Resources",
         "Priority": ""
@@ -1026,7 +968,7 @@
       {
         "Title": "MANGA ZIP",
         "URL": "https://manga-zip.info/home.i1/",
-        "Description": "File hosting site that offers free downloadable archives of raw Japanese manga volumes.",
+        "Description": "Digital archive platform that provides access to downloadable raw manga files for personal viewing.",
         "Favicon Filename": "manga-zip.info.png",
         "Tags": "🍤漫画",
         "Priority": ""
@@ -1034,7 +976,7 @@
       {
         "Title": "JLPT文法解説まとめ - 日本語NET",
         "URL": "https://nihongokyoshi-net.com/jlpt-grammars/",
-        "Description": "Online repository providing explanations and examples for Japanese grammar points categorized by JLPT proficiency level.",
+        "Description": "Educational resource indexing Japanese grammar patterns categorized by JLPT proficiency levels for student reference.",
         "Favicon Filename": "nihongokyoshi-net.com.png",
         "Tags": "🧠文法",
         "Priority": ""
@@ -1042,7 +984,7 @@
       {
         "Title": "Japanense Verb Conjugation",
         "URL": "https://oops-studio.com/japaneseverbconjugationpractice/quiz/perform/",
-        "Description": "Interactive quiz platform for practicing Japanese verb conjugation through structured drills and exercises.",
+        "Description": "Interactive web tool designed to help students practice and quiz Japanese verb conjugation forms.",
         "Favicon Filename": "oops-studio.com.png",
         "Tags": "🛠️Tools",
         "Priority": ""
@@ -1050,7 +992,7 @@
       {
         "Title": "Rawkuma",
         "URL": "https://rawkuma.com/",
-        "Description": "Digital repository that provides raw Japanese manga chapters for free download and online reading.",
+        "Description": "Online repository providing free access to high-quality scans of raw Japanese manga chapters.",
         "Favicon Filename": "rawkuma.com.png",
         "Tags": "🍤漫画",
         "Priority": ""
@@ -1058,7 +1000,7 @@
       {
         "Title": "Raw Otaku",
         "URL": "https://rawotaku.com/home/",
-        "Description": "Content aggregator that provides access to various raw manga series for Japanese-speaking readers.",
+        "Description": "Web portal for reading raw manga titles directly in a browser interface.",
         "Favicon Filename": "rawotaku.com.png",
         "Tags": "🍤漫画",
         "Priority": ""
@@ -1066,7 +1008,7 @@
       {
         "Title": "ッツ Ebook Reader",
         "URL": "https://reader.ttsu.app/manage",
-        "Description": "Browser-based ebook reader that allows users to manage and read digital book files.",
+        "Description": "Browser-based e-book reader featuring compatibility with dictionary extensions like Yomitan for vocabulary lookup.",
         "Favicon Filename": "reader.ttsu.app.png",
         "Tags": "🛠️Tools",
         "Priority": ""
@@ -1074,7 +1016,7 @@
       {
         "Title": "Texthooker UI",
         "URL": "https://renji-xd.github.io/texthooker-ui/",
-        "Description": "User interface tool that hooks text from external sources to assist with Japanese language study.",
+        "Description": "User interface for managing and displaying text extracted from Japanese media for translation analysis.",
         "Favicon Filename": "",
         "Tags": "🛠️Tools",
         "Priority": ""
@@ -1082,7 +1024,7 @@
       {
         "Title": "ハーメルン - SS･小説投稿サイト-",
         "URL": "https://syosetu.org/",
-        "Description": "Community-driven literature site for posting and reading Japanese light novels and fan fiction.",
+        "Description": "Online platform allowing users to post and read self-written Japanese novels and side stories.",
         "Favicon Filename": "syosetu.org.png",
         "Tags": "📘青空からの本",
         "Priority": ""
@@ -1090,7 +1032,7 @@
       {
         "Title": "Takoboto",
         "URL": "https://takoboto.jp/",
-        "Description": "Comprehensive Japanese-English dictionary and vocabulary learning resource for studying the Japanese language.",
+        "Description": "Bilingual dictionary and learning tool providing Japanese-English word definitions and example sentence analysis.",
         "Favicon Filename": "takoboto.jp.png",
         "Tags": "🛠️Tools",
         "Priority": ""
@@ -1098,7 +1040,7 @@
       {
         "Title": "青空文庫 Aozora Bunko",
         "URL": "https://www.aozora.gr.jp/",
-        "Description": "Digital library that preserves and distributes public domain Japanese literature in various formats.",
+        "Description": "Digital library providing free access to out-of-copyright Japanese literature and public domain texts.",
         "Favicon Filename": "aozora.gr.jp.png",
         "Tags": "📘青空からの本",
         "Priority": ""
@@ -1106,7 +1048,7 @@
       {
         "Title": "Duolingo",
         "URL": "https://www.duolingo.com/learn",
-        "Description": "Gamified language learning platform that provides structured lessons for users to study various foreign languages.",
+        "Description": "Language learning platform that uses gamified lessons to teach vocabulary, grammar, and pronunciation.",
         "Favicon Filename": "duolingo.com.png",
         "Tags": "🛠️Tools",
         "Priority": ""
@@ -1114,213 +1056,9 @@
       {
         "Title": "The Japanese Grammar Index",
         "URL": "https://www.tofugu.com/japanese-grammar/",
-        "Description": "Educational index providing structured lessons and explanations for various Japanese grammar points for learners.",
+        "Description": "Educational resource that provides detailed Japanese grammar lessons to help students improve their language proficiency.",
         "Favicon Filename": "tofugu.com.png",
         "Tags": "🧠文法",
-        "Priority": ""
-      }
-    ],
-    "🤖 AI Tools": [
-      {
-        "Title": "AI Studio",
-        "URL": "https://aistudio.google.com/welcome",
-        "Description": "Development environment that allows users to prototype and test applications using Google's Gemini models.",
-        "Favicon Filename": "aistudio.google.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Qwen",
-        "URL": "https://chat.qwen.ai/",
-        "Description": "Chat interface that provides access to the Qwen large language models for text generation tasks.",
-        "Favicon Filename": "chat.qwen.ai.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "ChatGPT",
-        "URL": "https://chatgpt.com/",
-        "Description": "AI-powered chat service that facilitates conversational interactions and text generation across various topics.",
-        "Favicon Filename": "chatgpt.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Claude",
-        "URL": "https://claude.ai/",
-        "Description": "AI assistant that processes natural language inputs to help users with writing, analysis, and coding.",
-        "Favicon Filename": "claude.ai.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Copilot",
-        "URL": "https://copilot.microsoft.com/",
-        "Description": "Web-based chatbot that integrates GPT-4 and DALL-E models to provide information and generate images.",
-        "Favicon Filename": "copilot.microsoft.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Duck.ai",
-        "URL": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
-        "Description": "Privacy-focused chat interface that provides anonymous access to several open-source large language models.",
-        "Favicon Filename": "duckduckgo.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Gemini",
-        "URL": "https://gemini.google.com/app",
-        "Description": "Multimodal AI assistant that processes text, images, and code to generate responses and perform tasks.",
-        "Favicon Filename": "gemini.google.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Free-LLM-API-Resources",
-        "URL": "https://github.com/cheahjs/free-llm-api-resources",
-        "Description": "GitHub repository that aggregates a list of free or open-access APIs for large language models.",
-        "Favicon Filename": "github.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Hugging Face",
-        "URL": "https://huggingface.co/spaces",
-        "Description": "Platform that hosts various machine learning models, datasets, and interactive applications for the research community.",
-        "Favicon Filename": "huggingface.co.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Mistral",
-        "URL": "https://mistral.ai/",
-        "Description": "Company portal that provides access to open and proprietary large language models for developers.",
-        "Favicon Filename": "mistral.ai.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "NotebookLM",
-        "URL": "https://notebooklm.google/",
-        "Description": "Research tool that generates summaries and answers based on documents uploaded by the user.",
-        "Favicon Filename": "notebooklm.google.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Safe.ai",
-        "URL": "https://safe.ai/",
-        "Description": "Organization website that publishes research and information regarding artificial intelligence safety and risk mitigation.",
-        "Favicon Filename": "safe.ai.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Coze",
-        "URL": "https://www.coze.com/",
-        "Description": "Development platform that allows users to create and deploy custom AI chatbots for various applications.",
-        "Favicon Filename": "coze.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Deepseek",
-        "URL": "https://www.deepseek.com/",
-        "Description": "Research portal that provides access to advanced language models designed for reasoning and coding tasks.",
-        "Favicon Filename": "deepseek.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "FutureTools",
-        "URL": "https://www.futuretools.io/",
-        "Description": "Online directory that categorizes and tracks various artificial intelligence tools available for different professional tasks.",
-        "Favicon Filename": "futuretools.io.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Kimi",
-        "URL": "https://www.kimi.com/",
-        "Description": "Chat assistant that utilizes long-context language models to analyze documents and provide informative text responses.",
-        "Favicon Filename": "kimi.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Perplexity",
-        "URL": "https://www.perplexity.ai/",
-        "Description": "Search engine interface that utilizes AI to provide summarized answers and citations for user queries.",
-        "Favicon Filename": "perplexity.ai.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Teach Anything",
-        "URL": "https://www.teach-anything.com/",
-        "Description": "Educational tool that generates simplified explanations for complex topics based on user-provided input.",
-        "Favicon Filename": "teach-anything.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "WolframAlpha",
-        "URL": "https://www.wolframalpha.com/",
-        "Description": "Computational engine that performs mathematical calculations and provides structured data across various scientific domains.",
-        "Favicon Filename": "wolframalpha.com.png",
-        "Tags": "",
-        "Priority": ""
-      }
-    ],
-    "🦠Virus Checker": [
-      {
-        "Title": "Dashboard | MetaDefender Cloud",
-        "URL": "https://metadefender.opswat.com/",
-        "Description": "Multi-scanning platform that uses various antivirus engines and data sanitization technologies to detect malicious content.",
-        "Favicon Filename": "metadefender.opswat.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Kaspersky Virus Scanner",
-        "URL": "https://opentip.kaspersky.com/",
-        "Description": "Security platform that scans submitted files and hashes to identify potential threats using Kaspersky databases.",
-        "Favicon Filename": "opentip.kaspersky.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Jotti's Malware scan",
-        "URL": "https://virusscan.jotti.org/",
-        "Description": "Free malware scanning service that checks uploaded files against a variety of different antivirus software programs.",
-        "Favicon Filename": "virusscan.jotti.org.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Automated Malware Analysis Service",
-        "URL": "https://www.hybrid-analysis.com/",
-        "Description": "Online security service that performs automated malware analysis on submitted files and provides detailed reports.",
-        "Favicon Filename": "hybrid-analysis.com.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "Virscan",
-        "URL": "https://www.virscan.org/",
-        "Description": "Web-based file analysis service that scans uploaded files against multiple antivirus engines to detect malware.",
-        "Favicon Filename": "virscan.org.png",
-        "Tags": "",
-        "Priority": ""
-      },
-      {
-        "Title": "VirusTotal",
-        "URL": "https://www.virustotal.com/gui/home/upload",
-        "Description": "Web-based tool that analyzes suspicious files and URLs using multiple antivirus engines and website scanners.",
-        "Favicon Filename": "virustotal.com.png",
-        "Tags": "",
         "Priority": ""
       }
     ],
@@ -1328,7 +1066,7 @@
       {
         "Title": "AsianBeauty Masterlists (Reddit)",
         "URL": "https://www.reddit.com/r/AsianBeauty/wiki/masterlists",
-        "Description": "Community-curated list of resources, product recommendations, and guides focused on Asian skincare routines and products.",
+        "Description": "Reddit wiki resource providing categorized lists and information regarding Asian beauty products and routines.",
         "Favicon Filename": "reddit.com.png",
         "Tags": "",
         "Priority": ""
@@ -1336,7 +1074,7 @@
       {
         "Title": "Skincare Addiction Wiki (Reddit)",
         "URL": "https://www.reddit.com/r/SkincareAddiction/wiki/index",
-        "Description": "Informational wiki providing guidance on basic skincare routines, ingredient analysis, and skin concern management.",
+        "Description": "Community wiki on Reddit detailing skincare ingredients, routines, and evidence-based advice for various concerns.",
         "Favicon Filename": "reddit.com.png",
         "Tags": "",
         "Priority": ""
@@ -1344,7 +1082,7 @@
       {
         "Title": "Chemist Confessions",
         "URL": "https://www.youtube.com/@ChemistConfessions",
-        "Description": "Educational channel that provides science-based explanations of skincare ingredients and product formulation concepts.",
+        "Description": "YouTube channel featuring educational videos from chemists regarding skincare product formulations and ingredient science.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1352,7 +1090,7 @@
       {
         "Title": "Doctorly (YouTube)",
         "URL": "https://www.youtube.com/@Doctorly",
-        "Description": "YouTube channel featuring medical doctors who analyze skincare ingredients and provide evidence-based dermatological product reviews.",
+        "Description": "YouTube channel hosted by dermatologists providing medical insights and debunking common skincare industry myths.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1360,7 +1098,7 @@
       {
         "Title": "Dr Sam Ellis (YouTube)",
         "URL": "https://www.youtube.com/@DrSamEllis",
-        "Description": "YouTube channel where a board-certified dermatologist offers professional advice on skincare routines and specific product formulations.",
+        "Description": "YouTube channel featuring educational content about dermatology and skincare advice from Dr. Sam Ellis.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1368,7 +1106,7 @@
       {
         "Title": "James Welsh (YouTube)",
         "URL": "https://www.youtube.com/@JamesWelsh",
-        "Description": "YouTube channel providing skincare advice, product comparisons, and routine recommendations for various skin types and concerns.",
+        "Description": "YouTube channel providing skincare product reviews and educational information hosted by James Welsh.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1376,7 +1114,7 @@
       {
         "Title": "Shereene Idriss (YouTube)",
         "URL": "https://www.youtube.com/@shereeneidriss",
-        "Description": "YouTube channel hosted by a dermatologist that explains skincare science and helps viewers navigate product ingredient lists.",
+        "Description": "YouTube channel offering professional dermatology insights and product analysis from Dr. Shereene Idriss.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1384,7 +1122,7 @@
       {
         "Title": "The Budget Dermatologist (YouTube)",
         "URL": "https://www.youtube.com/@TheBudgetDermatologist",
-        "Description": "YouTube channel featuring a dermatologist who reviews and recommends affordable, accessible skincare products for different budgets.",
+        "Description": "YouTube channel focused on affordable skincare recommendations and dermatological advice for budget-conscious viewers.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1392,7 +1130,7 @@
       {
         "Title": "Tina Tanaka Harris (YouTube)",
         "URL": "https://www.youtube.com/@TinaTanakaHarris/",
-        "Description": "YouTube channel providing comprehensive skincare education and routines focused on addressing common dermatological issues and concerns.",
+        "Description": "YouTube channel featuring educational skincare content and product reviews hosted by Tina Tanaka Harris.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1400,15 +1138,15 @@
       {
         "Title": "Lab Muffin Beauty Science",
         "URL": "https://www.youtube.com/c/LabMuffinBeautyScience",
-        "Description": "YouTube channel exploring the cosmetic chemistry behind skincare products to explain how specific ingredients affect skin health.",
+        "Description": "YouTube channel that explains the scientific principles behind cosmetic products and skincare ingredients.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
       },
       {
-        "Title": "Shereene Idriss? (channel unknown)",
+        "Title": "Dr Dray",
         "URL": "https://www.youtube.com/channel/UCnxmUrGMtpQT844Yd_l7Zyg",
-        "Description": "YouTube channel offering professional dermatological insights into skincare routines, ingredient efficacy, and common skin health myths.",
+        "Description": "YouTube channel page providing video content related to professional skincare and dermatological health.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1418,7 +1156,7 @@
       {
         "Title": "NY Times Cooking",
         "URL": "https://cooking.nytimes.com/",
-        "Description": "Online culinary platform providing a searchable database of recipes, cooking guides, and instructional videos for home cooks.",
+        "Description": "Digital recipe database providing cooking instructions and guides for home cooks of all levels.",
         "Favicon Filename": "cooking.nytimes.com.png",
         "Tags": "",
         "Priority": ""
@@ -1426,7 +1164,7 @@
       {
         "Title": "Tasty",
         "URL": "https://tasty.co/",
-        "Description": "Digital food network that shares quick video tutorials, step-by-step recipes, and culinary inspiration for everyday cooking.",
+        "Description": "Food network platform featuring a collection of searchable recipes and instructional cooking videos.",
         "Favicon Filename": "tasty.co.png",
         "Tags": "",
         "Priority": ""
@@ -1434,7 +1172,7 @@
       {
         "Title": "The Woks of Life",
         "URL": "https://thewoksoflife.com/",
-        "Description": "Food blog featuring traditional and modern Chinese recipes with detailed instructions and cultural context for home preparation.",
+        "Description": "Food blog documenting family recipes and culinary experiences focusing on Chinese and American cuisines.",
         "Favicon Filename": "thewoksoflife.com.png",
         "Tags": "",
         "Priority": ""
@@ -1442,7 +1180,7 @@
       {
         "Title": "Milk Street",
         "URL": "https://www.177milkstreet.com/",
-        "Description": "Cooking website offering global recipes, techniques, and educational content focused on international culinary traditions and flavor profiles.",
+        "Description": "Culinary resource offering international recipes, instructional videos, and cooking educational materials for home cooks.",
         "Favicon Filename": "177milkstreet.com.png",
         "Tags": "",
         "Priority": ""
@@ -1450,7 +1188,7 @@
       {
         "Title": "America's Test Kitchen",
         "URL": "https://www.americastestkitchen.com/",
-        "Description": "Subscription-based cooking resource that provides rigorously tested recipes, kitchen equipment reviews, and step-by-step culinary instructional videos.",
+        "Description": "Cooking platform providing tested recipes, equipment reviews, and food science insights for home cooks.",
         "Favicon Filename": "americastestkitchen.com.png",
         "Tags": "",
         "Priority": ""
@@ -1458,7 +1196,7 @@
       {
         "Title": "Bon Appétit",
         "URL": "https://www.bonappetit.com/",
-        "Description": "Digital culinary publication featuring diverse recipes, restaurant recommendations, and articles about food culture and cooking techniques.",
+        "Description": "Food magazine website offering recipes, cooking tips, ingredient information, and culinary video content.",
         "Favicon Filename": "bonappetit.com.png",
         "Tags": "",
         "Priority": ""
@@ -1466,7 +1204,7 @@
       {
         "Title": "Budget Bytes",
         "URL": "https://www.budgetbytes.com/",
-        "Description": "Cooking website that publishes budget-friendly recipes with cost breakdowns to help users plan affordable daily meals.",
+        "Description": "Recipe website providing meal ideas and instructions tailored for individuals on a limited budget.",
         "Favicon Filename": "budgetbytes.com.png",
         "Tags": "",
         "Priority": ""
@@ -1474,7 +1212,7 @@
       {
         "Title": "HelloFresh Recipes",
         "URL": "https://www.hellofresh.com/recipes",
-        "Description": "Online database providing searchable recipes and step-by-step instructions for meals designed for home cooking enthusiasts.",
+        "Description": "Online database featuring a variety of meal recipes, global cuisines, and daily cooking inspiration.",
         "Favicon Filename": "hellofresh.com.png",
         "Tags": "",
         "Priority": ""
@@ -1482,7 +1220,7 @@
       {
         "Title": "Just One Cookbook",
         "URL": "https://www.justonecookbook.com/",
-        "Description": "Food blog providing authentic Japanese recipes with detailed photos, ingredient explanations, and step-by-step cooking techniques.",
+        "Description": "Recipe website that provides home-style Japanese cooking instructions and traditional culinary techniques for enthusiasts.",
         "Favicon Filename": "justonecookbook.com.png",
         "Tags": "",
         "Priority": ""
@@ -1490,7 +1228,7 @@
       {
         "Title": "Made with Lau",
         "URL": "https://www.madewithlau.com/",
-        "Description": "Cooking website featuring Cantonese-style recipes, culinary techniques, and stories passed down through generations of a Chinese-American family.",
+        "Description": "Cooking resource that features authentic Cantonese recipes taught by a professional chef with decades of experience.",
         "Favicon Filename": "madewithlau.com.png",
         "Tags": "",
         "Priority": ""
@@ -1498,7 +1236,7 @@
       {
         "Title": "RecipeTin Eats",
         "URL": "https://www.recipetineats.com/",
-        "Description": "Recipe website offering a wide variety of meal ideas with step-by-step instructions and video demonstrations for cooks.",
+        "Description": "Food blog providing a comprehensive collection of diverse, accessible recipes for quick meals and home cooking.",
         "Favicon Filename": "recipetineats.com.png",
         "Tags": "",
         "Priority": ""
@@ -1506,7 +1244,7 @@
       {
         "Title": "Adam Ragusea",
         "URL": "https://www.youtube.com/@aragusea",
-        "Description": "YouTube channel featuring instructional cooking videos that focus on practical techniques, ingredient selection, and culinary experimentation.",
+        "Description": "YouTube channel that documents culinary experiments and shares practical cooking techniques for home kitchens.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1514,7 +1252,7 @@
       {
         "Title": "Binging with Babish",
         "URL": "https://www.youtube.com/@bingingwithbabish",
-        "Description": "YouTube channel that recreates food and meals featured in popular movies and television series.",
+        "Description": "YouTube channel that recreates dishes and meals inspired by films and popular television series.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1522,7 +1260,7 @@
       {
         "Title": "Brian Lagerstrom",
         "URL": "https://www.youtube.com/@BrianLagerstrom",
-        "Description": "YouTube channel providing professional cooking techniques and recipes for home cooks of all levels.",
+        "Description": "YouTube channel that demonstrates professional cooking techniques and recipes adapted for the home cook.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1530,7 +1268,7 @@
       {
         "Title": "Japanese Cooking Channel (YouTube)",
         "URL": "https://www.youtube.com/@JapaneseCookingChannel",
-        "Description": "YouTube channel featuring step-by-step video tutorials for preparing authentic Japanese home-style dishes.",
+        "Description": "YouTube channel that provides video tutorials focused on preparing authentic Japanese meals at home.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1538,7 +1276,7 @@
       {
         "Title": "Latifs Inspired",
         "URL": "https://www.youtube.com/@latifsinspired",
-        "Description": "YouTube channel focused on demonstrating recipes for restaurant-style Indian and British-Indian curry dishes.",
+        "Description": "YouTube channel featuring instructional videos on cooking various Indian and international restaurant-style dishes at home.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1546,7 +1284,7 @@
       {
         "Title": "Maangchi (YouTube)",
         "URL": "https://www.youtube.com/@Maangchi",
-        "Description": "YouTube channel offering traditional and modern Korean cooking instructions for a global audience.",
+        "Description": "YouTube channel offering detailed video tutorials for preparing traditional and modern Korean cuisine.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1554,7 +1292,7 @@
       {
         "Title": "Middle Eats",
         "URL": "https://www.youtube.com/@middleeats",
-        "Description": "YouTube channel dedicated to teaching viewers how to cook authentic Middle Eastern cuisine at home.",
+        "Description": "YouTube channel that showcases recipes and culinary traditions from across the Middle East.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1562,7 +1300,7 @@
       {
         "Title": "Sudachi Recipes (YouTube)",
         "URL": "https://www.youtube.com/@SudachiRecipes",
-        "Description": "YouTube channel that provides detailed guides and recipes for authentic and accessible Japanese cooking.",
+        "Description": "YouTube channel that teaches viewers how to prepare authentic Japanese recipes through detailed video guides.",
         "Favicon Filename": "youtube.com.png",
         "Tags": "",
         "Priority": ""
@@ -1570,8 +1308,162 @@
       {
         "Title": "Jacob Burton (YouTube)",
         "URL": "https://www.youtube.com/channel/UCpPsrEZJFKKelnKzjHLl1bg",
-        "Description": "YouTube channel showcasing professional culinary techniques and food science explanations for home cooks.",
+        "Description": "YouTube channel providing technical culinary demonstrations and professional cooking tips for aspiring home chefs.",
         "Favicon Filename": "youtube.com.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🤖 AI Tools": [
+      {
+        "Title": "AI Studio",
+        "URL": "https://aistudio.google.com/welcome",
+        "Description": "Web-based development environment that enables users to build and deploy applications using Gemini AI models.",
+        "Favicon Filename": "aistudio.google.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Qwen",
+        "URL": "https://chat.qwen.ai/",
+        "Description": "Artificial intelligence platform that enables users to interact with Qwen language models via a chat interface.",
+        "Favicon Filename": "chat.qwen.ai.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "ChatGPT",
+        "URL": "https://chatgpt.com/",
+        "Description": "Conversational artificial intelligence platform that processes text prompts to generate human-like responses and content.",
+        "Favicon Filename": "chatgpt.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Claude",
+        "URL": "https://claude.ai/",
+        "Description": "Artificial intelligence assistant designed for processing information, writing, and analyzing content through natural language interaction.",
+        "Favicon Filename": "claude.ai.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Copilot",
+        "URL": "https://copilot.microsoft.com/",
+        "Description": "Artificial intelligence assistant that provides answers, generates content, and helps users with various information-seeking tasks.",
+        "Favicon Filename": "copilot.microsoft.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Duck.ai",
+        "URL": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
+        "Description": "Privacy-focused chat interface that provides anonymous access to various third-party artificial intelligence models.",
+        "Favicon Filename": "duckduckgo.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Gemini",
+        "URL": "https://gemini.google.com/app",
+        "Description": "Google's artificial intelligence assistant that supports users with writing, brainstorming, planning, and other creative tasks.",
+        "Favicon Filename": "gemini.google.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Free-LLM-API-Resources",
+        "URL": "https://github.com/cheahjs/free-llm-api-resources",
+        "Description": "GitHub repository that catalogs various free-to-use large language model inference resources available through APIs.",
+        "Favicon Filename": "github.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Hugging Face",
+        "URL": "https://huggingface.co/spaces",
+        "Description": "Community-driven platform for discovering and running various machine learning applications built by researchers and developers.",
+        "Favicon Filename": "huggingface.co.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Mistral",
+        "URL": "https://mistral.ai/",
+        "Description": "Enterprise-focused artificial intelligence platform for customizing, fine-tuning, and deploying large language models and autonomous agents.",
+        "Favicon Filename": "mistral.ai.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "NotebookLM",
+        "URL": "https://notebooklm.google/",
+        "Description": "AI-powered research tool that analyzes user-uploaded documents to help clarify information and synthesize source material.",
+        "Favicon Filename": "notebooklm.google.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Safe.ai",
+        "URL": "https://safe.ai/",
+        "Description": "Research organization dedicated to advancing safety standards and reducing societal risks associated with artificial intelligence.",
+        "Favicon Filename": "safe.ai.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Coze",
+        "URL": "https://www.coze.com/",
+        "Description": "Integrated productivity platform that utilizes AI agents for office tasks including writing, design, and content generation.",
+        "Favicon Filename": "coze.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Deepseek",
+        "URL": "https://www.deepseek.com/",
+        "Description": "Research organization that develops and hosts open-source large language models for text and code generation tasks.",
+        "Favicon Filename": "deepseek.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "FutureTools",
+        "URL": "https://www.futuretools.io/",
+        "Description": "Curated database that allows users to search and filter over 4,000 artificial intelligence tools.",
+        "Favicon Filename": "futuretools.io.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Kimi",
+        "URL": "https://www.kimi.com/",
+        "Description": "Web-based platform for building full-stack websites and managing autonomous agent swarms for complex tasks.",
+        "Favicon Filename": "kimi.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Perplexity",
+        "URL": "https://www.perplexity.ai/",
+        "Description": "AI-powered search engine that provides direct answers and source citations for user queries.",
+        "Favicon Filename": "perplexity.ai.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Teach Anything",
+        "URL": "https://www.teach-anything.com/",
+        "Description": "Educational platform that uses artificial intelligence to generate explanations for any requested subject matter.",
+        "Favicon Filename": "teach-anything.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "WolframAlpha",
+        "URL": "https://www.wolframalpha.com/",
+        "Description": "Computational knowledge engine that provides expert-level answers across scientific, mathematical, and historical subject areas.",
+        "Favicon Filename": "wolframalpha.com.png",
         "Tags": "",
         "Priority": ""
       }
@@ -1580,7 +1472,7 @@
       {
         "Title": "Favicon Generator",
         "URL": "https://favicongenerator.io/",
-        "Description": "Web-based tool for converting images into favicon files suitable for website browser tabs.",
+        "Description": "Browser-based tool that creates favicon files from text, emojis, images, or SVG files locally.",
         "Favicon Filename": "favicongenerator.io.png",
         "Tags": "",
         "Priority": ""
@@ -1588,7 +1480,7 @@
       {
         "Title": "QR Code Generator (goqr.me)",
         "URL": "https://goqr.me/",
-        "Description": "Web-based tool that generates customizable QR codes for URLs, text, and various contact formats.",
+        "Description": "Web-based utility that generates custom QR codes for commercial or personal use in various formats.",
         "Favicon Filename": "goqr.me.png",
         "Tags": "",
         "Priority": ""
@@ -1596,7 +1488,7 @@
       {
         "Title": "OCR Tool",
         "URL": "https://ocrtool.net/",
-        "Description": "Web-based tool for extracting editable text from uploaded image files or scanned documents.",
+        "Description": "Online tool that converts image files and PDFs into editable text within the browser.",
         "Favicon Filename": "ocrtool.net.png",
         "Tags": "",
         "Priority": ""
@@ -1604,7 +1496,7 @@
       {
         "Title": "TinyPNG",
         "URL": "https://tinypng.com/",
-        "Description": "Web-based tool that compresses PNG and JPEG image files to reduce their overall file size.",
+        "Description": "Web-based image optimizer that reduces file sizes of WEBP, JPEG, and PNG images using lossy compression.",
         "Favicon Filename": "tinypng.com.png",
         "Tags": "",
         "Priority": ""
@@ -1612,7 +1504,7 @@
       {
         "Title": "UX Tools",
         "URL": "https://uxtools.co/",
-        "Description": "Resource website providing curated lists, guides, and comparisons of software tools for UX designers.",
+        "Description": "Online platform for design insights, tool comparisons, and workflow documentation intended for professional designers.",
         "Favicon Filename": "uxtools.co.png",
         "Tags": "",
         "Priority": ""
@@ -1620,7 +1512,7 @@
       {
         "Title": "Relume",
         "URL": "https://www.relume.io/",
-        "Description": "AI-powered web platform for generating website sitemaps and wireframes to assist design workflows.",
+        "Description": "AI-powered website builder that generates sitemaps and wireframes for marketing websites.",
         "Favicon Filename": "relume.io.png",
         "Tags": "",
         "Priority": ""
@@ -1628,7 +1520,7 @@
       {
         "Title": "Remove.bg",
         "URL": "https://www.remove.bg/",
-        "Description": "Web-based tool that automatically removes the background from uploaded images using artificial intelligence.",
+        "Description": "Web-based tool that automatically removes backgrounds from uploaded images using automated software.",
         "Favicon Filename": "remove.bg.png",
         "Tags": "",
         "Priority": ""
@@ -1636,8 +1528,116 @@
       {
         "Title": "Tiny Eraser",
         "URL": "https://www.tinyeraser.com/en",
-        "Description": "Web-based tool for removing unwanted objects or people from images using an erase brush.",
+        "Description": "Web-based utility that performs bulk image background removal for users in a single click.",
         "Favicon Filename": "tinyeraser.com.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🦠Virus Checker": [
+      {
+        "Title": "Dashboard | MetaDefender Cloud",
+        "URL": "https://metadefender.opswat.com/",
+        "Description": "Security tool for scanning files, URLs, and IP addresses for malware using multiple antivirus engines.",
+        "Favicon Filename": "metadefender.opswat.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Kaspersky Virus Scanner",
+        "URL": "https://opentip.kaspersky.com/",
+        "Description": "Threat intelligence portal for analyzing files, domains, and IP addresses to detect potential malware threats.",
+        "Favicon Filename": "opentip.kaspersky.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Jotti's Malware scan",
+        "URL": "https://virusscan.jotti.org/",
+        "Description": "Online malware scanner that checks suspicious files against various antivirus databases for potential threats.",
+        "Favicon Filename": "virusscan.jotti.org.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Automated Malware Analysis Service",
+        "URL": "https://www.hybrid-analysis.com/",
+        "Description": "Automated analysis service for submitting and evaluating malware using sandbox technology.",
+        "Favicon Filename": "hybrid-analysis.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Virscan",
+        "URL": "https://www.virscan.org/",
+        "Description": "Web-based scanner that tests uploaded files for viruses and malware using multiple antivirus engines.",
+        "Favicon Filename": "virscan.org.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "VirusTotal",
+        "URL": "https://www.virustotal.com/gui/home/upload",
+        "Description": "Security service that analyzes suspicious files and URLs to detect malware and malicious content.",
+        "Favicon Filename": "virustotal.com.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "☠️ 7 seas": [
+      {
+        "Title": "freemediaheckyeah",
+        "URL": "https://fmhy.net/",
+        "Description": "Curated directory that indexes free digital resources, software, and media content available across the internet.",
+        "Favicon Filename": "fmhy.net.png",
+        "Tags": "🦜 Directory",
+        "Priority": 1
+      },
+      {
+        "Title": "Media Savvy Piracy Wiki",
+        "URL": "https://mediasavvy.pages.dev/Wiki/",
+        "Description": "Comprehensive wiki providing information and guidance on digital media, software, and general piracy-related topics.",
+        "Favicon Filename": "mediasavvy.pages.dev.png",
+        "Tags": "🦜 Directory",
+        "Priority": 1
+      },
+      {
+        "Title": "/r/Roms Megathread",
+        "URL": "https://r-roms.github.io/",
+        "Description": "Repository providing links and documentation for retro video game ROMs, emulators, and related gaming archives.",
+        "Favicon Filename": "r-roms.github.io.png",
+        "Tags": "🦜 Directory",
+        "Priority": ""
+      },
+      {
+        "Title": "Rave Book Search",
+        "URL": "https://ravebooksearch.com/",
+        "Description": "Search utility that aggregates results from Library Genesis and Anna’s Archive for finding digital books.",
+        "Favicon Filename": "ravebooksearch.com.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "r/Privacy Megathread",
+        "URL": "https://rentry.co/megathread",
+        "Description": "Resource guide offering recommendations for privacy-focused software, browser configurations, and digital security practices.",
+        "Favicon Filename": "rentry.co.png",
+        "Tags": "🦜 Directory",
+        "Priority": ""
+      },
+      {
+        "Title": "Ripped",
+        "URL": "https://ripped.guide/",
+        "Description": "Digital platform aggregating verified links and resources for downloading software, media, and other internet content.",
+        "Favicon Filename": "ripped.guide.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Download New Movies",
+        "URL": "https://watchsomuch.to/Movies/",
+        "Description": "Streaming index providing links to download or watch various movies and television content online.",
+        "Favicon Filename": "watchsomuch.to.png",
         "Tags": "",
         "Priority": ""
       }
@@ -1646,7 +1646,7 @@
       {
         "Title": "Hitchhiker's Guide (Anonymous Planet)",
         "URL": "https://anonymousplanet.org/guide/",
-        "Description": "Online guide providing practical advice on maintaining personal privacy and digital anonymity in modern life.",
+        "Description": "Online guide providing resources and strategies for maintaining digital anonymity and online privacy.",
         "Favicon Filename": "anonymousplanet.org.png",
         "Tags": "",
         "Priority": ""
@@ -1654,7 +1654,7 @@
       {
         "Title": "The Second Opinion",
         "URL": "https://jijirae.github.io/thesecondopinion/index.html",
-        "Description": "Web-based platform that aggregates second opinions and reviews regarding various products and software services.",
+        "Description": "Software suite that scans computers for malware, viruses, and trojans to enhance system security.",
         "Favicon Filename": "jijirae.github.io.png",
         "Tags": "",
         "Priority": ""
@@ -1662,7 +1662,7 @@
       {
         "Title": "Privacy Tools",
         "URL": "https://privacytoolslist.com/",
-        "Description": "Directory website listing privacy-focused software, operating systems, and tools for protecting personal digital data.",
+        "Description": "Web directory that curates software and services for enhancing internet privacy and anonymity.",
         "Favicon Filename": "",
         "Tags": "",
         "Priority": ""
@@ -1670,7 +1670,7 @@
       {
         "Title": "Surveillance Self-Defense (EFF)",
         "URL": "https://ssd.eff.org/",
-        "Description": "Educational resource from the EFF offering guidance on digital security and protecting personal data online.",
+        "Description": "Educational resource providing advice and technical guides on defending against digital surveillance.",
         "Favicon Filename": "ssd.eff.org.png",
         "Tags": "",
         "Priority": ""
@@ -1678,7 +1678,7 @@
       {
         "Title": "The New Oil",
         "URL": "https://thenewoil.org/en/",
-        "Description": "Educational website that provides guides and resources for individuals seeking to improve their digital privacy.",
+        "Description": "Information hub that provides practical advice and tools for managing and securing personal digital data.",
         "Favicon Filename": "thenewoil.org.png",
         "Tags": "",
         "Priority": ""
@@ -1686,7 +1686,7 @@
       {
         "Title": "No Trace Project",
         "URL": "https://www.notrace.how/",
-        "Description": "Information hub that documents tactics for maintaining digital anonymity and resisting corporate or state surveillance.",
+        "Description": "Collection of tools and tutorials designed to help individuals understand and undermine digital surveillance efforts.",
         "Favicon Filename": "notrace.how.png",
         "Tags": "",
         "Priority": ""
@@ -1694,7 +1694,7 @@
       {
         "Title": "Privacy Guides",
         "URL": "https://www.privacyguides.org/",
-        "Description": "Collaborative project that offers recommendations for privacy-focused software and configurations to secure personal data online.",
+        "Description": "Non-profit media outlet that evaluates and recommends tools for protecting personal privacy and digital security.",
         "Favicon Filename": "privacyguides.org.png",
         "Tags": "",
         "Priority": ""
@@ -1702,7 +1702,7 @@
       {
         "Title": "URLVoid",
         "URL": "https://www.urlvoid.com/",
-        "Description": "Web-based analysis tool that scans URLs against various blacklists to detect potential malware and security threats.",
+        "Description": "Website reputation checker that scans URLs against multiple blocklist services to detect malicious content.",
         "Favicon Filename": "urlvoid.com.png",
         "Tags": "",
         "Priority": ""
